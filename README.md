@@ -45,7 +45,12 @@ VAE is different because it has 2 terms, mean and standard deviation.
 - Learns directly from the environment.
 I didn't quiet follow and will have to re-watch
 
+### Reinforcement Learning
+[An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0)
+The network that transforms input frames to output actions is called the policy network.
 
+### Overcoming sparse rewards in Deep RL: Curiosity, hindsight & auxiliary tasks.
+[Overcoming sparse rewards in Deep RL: Curiosity, hindsight & auxiliary tasks.](https://www.youtube.com/watch?v=0Ey02HT_1Ho)
 
 *Links*
 Daily Reading Material
@@ -62,7 +67,7 @@ Temporal Difference
 Reinforcement learning
 Monte Carlo Tree Search
 neural impainting
-
+Reinforcement Learning
 Disentangled VAE
 
 Outcome of course -
@@ -75,6 +80,11 @@ Form a sentence and form various images based on the sentence.
 - Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
 - Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
 - Original VAE paper (2013): https://arxiv.org/abs/1312.6114
+- Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
+- Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
+- Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
+
+
 
 *Need to watch*
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
