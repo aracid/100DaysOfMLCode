@@ -1,19 +1,20 @@
 # 100DaysOfMLCode
 Repository of the AI journey 100 Days of ML Code
-
+Total Time : 2 Hours
 
 # 100 Days Of ML Code - Log
 
 ## Day 1 : October 9th 2018
 1 Hour
 
-Introduction into Q Learning
+### Introduction into Q Learning
 Difference between On Policy and Off Policies.
 
-Q Learning is Off Policy Method.
-### Temporal differences is similar to a moving average.
-### Adaptive learning rate - to assist in speed. If Alpha is too high, we may miss the sweet spot, if its too low, then its to slow to train.
+- Q Learning is Off Policy Method.
+- Temporal differences is similar to a moving average.
+- Adaptive learning rate - to assist in speed. If Alpha is too high, we may miss the sweet spot, if its too low, then its to slow to train.
 
+### Neural Material Synthesis
 Neural Material Synthesis is something that interests me, and as I am currently working on an animated feature that requires synthetic textures, this approach would make sense.
 
 ### Alpha go has been revised
@@ -34,6 +35,18 @@ VAE is different because it has 2 terms, mean and standard deviation.
 [How AlphaGo Zero works - Google DeepMind](https://www.youtube.com/watch?v=MgowR4pq3e8)
 [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 
+
+## Day 2 : October 10th 2018
+
+### Proximal Policy Optimization
+
+[Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://www.youtube.com/watch?v=5P7I-xPq8u8)
+- Learns online.
+- Learns directly from the environment.
+I didn't quiet follow and will have to re-watch
+
+
+
 *Links*
 Daily Reading Material
 https://arxiv.org/list/cs.AI/recent
@@ -41,6 +54,7 @@ https://arxiv.org/list/cs.LG/recent
 
 # Concepts to understand
 
+Trust Region Policy Optimization - John Schulman Berkeley
 Q-Learning
 
 Autoencoders
@@ -61,3 +75,6 @@ Form a sentence and form various images based on the sentence.
 - Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
 - Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
 - Original VAE paper (2013): https://arxiv.org/abs/1312.6114
+
+*Need to watch*
+[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
