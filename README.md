@@ -37,6 +37,7 @@ VAE is different because it has 2 terms, mean and standard deviation.
 
 
 ## Day 2 : October 10th 2018
+1 Hour
 
 ### Proximal Policy Optimization
 
@@ -52,6 +53,19 @@ The network that transforms input frames to output actions is called the policy 
 ### Overcoming sparse rewards in Deep RL: Curiosity, hindsight & auxiliary tasks.
 [Overcoming sparse rewards in Deep RL: Curiosity, hindsight & auxiliary tasks.](https://www.youtube.com/watch?v=0Ey02HT_1Ho)
 
+
+## Day 3 : October 11th 2018
+45 Min
+[A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+The best explanation of Log I've come across.
+Entropy : The average amount of information you get from one sample drawn given from the probability distribution P.
+
+[TensorFlow 2.0 Changes](https://www.youtube.com/watch?v=WTNH0tcscqo)
+
+## Day 3 : Octover 12th 2018
+4 Hours
+[IBM COMMUNITY DAY: AI - Building Custom AI Web Services](https://www.ibmai-platform.bemyapp.com/#/conference/5bb5415cb4ae3f00044cb9fc)
+
 *Links*
 Daily Reading Material
 https://arxiv.org/list/cs.AI/recent
@@ -61,7 +75,6 @@ https://arxiv.org/list/cs.LG/recent
 
 Trust Region Policy Optimization - John Schulman Berkeley
 Q-Learning
-
 Autoencoders
 Temporal Difference
 Reinforcement learning
@@ -88,3 +101,9 @@ Form a sentence and form various images based on the sentence.
 
 *Need to watch*
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
+
+
+# Authors to follow
+
+# Vloggers to follow
+[Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
