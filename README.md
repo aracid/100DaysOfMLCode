@@ -30,10 +30,13 @@ VAE is different because it has 2 terms, mean and standard deviation.
 
 
 **Links:**
-[Lecture 4.5 Q-Learning Tutorial of Move 37](https://www.youtube.com/watch?v=tU6_Fc6bKyQ)
-[Neural Material Synthesis, This Time On Steroids](https://www.youtube.com/watch?v=UkWnExEFADI&feature=em-uploademail)
-[How AlphaGo Zero works - Google DeepMind](https://www.youtube.com/watch?v=MgowR4pq3e8)
-[Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+:heavy_check_mark: [Lecture 4.5 Q-Learning Tutorial of Move 37](https://www.youtube.com/watch?v=tU6_Fc6bKyQ)
+
+:heavy_check_mark: [Neural Material Synthesis, This Time On Steroids](https://www.youtube.com/watch?v=UkWnExEFADI&feature=em-uploademail)
+
+:heavy_check_mark: [How AlphaGo Zero works - Google DeepMind](https://www.youtube.com/watch?v=MgowR4pq3e8)
+
+:heavy_check_mark: [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 
 
 ## Day 2 : October 10th 2018
@@ -66,13 +69,16 @@ Entropy : The average amount of information you get from one sample drawn given 
 4 Hours
 
 [IBM COMMUNITY DAY : Jump Start AI at your Organization](https://www.ibmai-platform.bemyapp.com/#/conference/5bbea3d1bfd6260003e21103)
+
 A wonderful talk by Pam Askar
 https://www.ironsidegroup.com/
 https://www.ironsidegroup.com/event/intro-ai-workshop/
 
 [IBM COMMUNITY DAY : Model Asset Exchange](https://www.ibmai-platform.bemyapp.com/#/conference/5bb53d8db4ae3f00044cb9f2)
 https://developer.ibm.com/code/exchanges/models/
+
 Fabric for Deep Learning
+
 Look at
 - https://github.com/IBM/MAX-Fast-Neural-Style-Transfer
 - https://github.com/IBM/MAX-Scene-Classifier
@@ -85,8 +91,11 @@ Look at
 
 
 *Links*
+
 Daily Reading Material
+
 https://arxiv.org/list/cs.AI/recent
+
 https://arxiv.org/list/cs.LG/recent
 
 # Concepts to understand
@@ -128,3 +137,9 @@ Form a sentence and form various images based on the sentence.
 # Vloggers to follow
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Sung Kim](https://www.youtube.com/user/hunkims/videos)
+
+# Other Git Repositories
+
+[Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+
+[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
