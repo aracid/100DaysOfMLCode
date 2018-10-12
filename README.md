@@ -1,8 +1,8 @@
 # 100DaysOfMLCode
 Repository of the AI journey 100 Days of ML Code
-Total Time : 2 Hours
+Total Time : 4 Hours
 
-# 100 Days Of ML Code - Log
+# 100 Days Of ML Code
 
 ## Day 1 : October 9th 2018
 1 Hour
@@ -64,7 +64,25 @@ Entropy : The average amount of information you get from one sample drawn given 
 
 ## Day 3 : Octover 12th 2018
 4 Hours
-[IBM COMMUNITY DAY: AI - Building Custom AI Web Services](https://www.ibmai-platform.bemyapp.com/#/conference/5bb5415cb4ae3f00044cb9fc)
+
+[IBM COMMUNITY DAY : Jump Start AI at your Organization](https://www.ibmai-platform.bemyapp.com/#/conference/5bbea3d1bfd6260003e21103)
+A wonderful talk by Pam Askar
+https://www.ironsidegroup.com/
+https://www.ironsidegroup.com/event/intro-ai-workshop/
+
+[IBM COMMUNITY DAY : Model Asset Exchange](https://www.ibmai-platform.bemyapp.com/#/conference/5bb53d8db4ae3f00044cb9f2)
+https://developer.ibm.com/code/exchanges/models/
+Fabric for Deep Learning
+Look at
+- https://github.com/IBM/MAX-Fast-Neural-Style-Transfer
+- https://github.com/IBM/MAX-Scene-Classifier
+- https://kubernetes.io/
+- https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-machine-learning-generated-image-captions/
+
+[Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
+MDP ->
+
+
 
 *Links*
 Daily Reading Material
@@ -82,12 +100,14 @@ Monte Carlo Tree Search
 neural impainting
 Reinforcement Learning
 Disentangled VAE
+Transfer learning
 
 Outcome of course -
 Denoise
 Voice recognition - speech to text.
 Text to image classification, ie find an image based on text, the text isnt a category but a convnet.
 Form a sentence and form various images based on the sentence.
+
 
 *Need to read*
 - Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
@@ -107,3 +127,4 @@ Form a sentence and form various images based on the sentence.
 
 # Vloggers to follow
 [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+[Sung Kim](https://www.youtube.com/user/hunkims/videos)
