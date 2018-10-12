@@ -80,8 +80,8 @@ Look at
 - https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-machine-learning-generated-image-captions/
 
 [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
-MDP ->
 
+[PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
 
 *Links*
@@ -116,15 +116,15 @@ Form a sentence and form various images based on the sentence.
 - Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
 - Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
 - Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
-
+- [NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
 
 
 *Need to watch*
-[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
-
+- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
+- [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 # Authors to follow
 
 # Vloggers to follow
-[Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
-[Sung Kim](https://www.youtube.com/user/hunkims/videos)
+- [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+- [Sung Kim](https://www.youtube.com/user/hunkims/videos)
