@@ -87,9 +87,9 @@ Look at
 - https://kubernetes.io/
 - https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-machine-learning-generated-image-captions/
 
-:check_mark: [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
+- [] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
 
-:check_mark: [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
+- [] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
 
 
@@ -104,22 +104,22 @@ https://arxiv.org/list/cs.LG/recent
 
 # Concepts to understand
 
-Trust Region Policy Optimization - John Schulman Berkeley
-Q-Learning
-Autoencoders
-Temporal Difference
-Reinforcement learning
-Monte Carlo Tree Search
-neural impainting
-Reinforcement Learning
-Disentangled VAE
-Transfer learning
+- [] Trust Region Policy Optimization - John Schulman Berkeley
+- [] Q-Learning
+- [] Autoencoders
+- [] Temporal Difference
+- [] Reinforcement learning
+- [] Monte Carlo Tree Search
+- [] neural impainting
+- [] Reinforcement Learning
+- [] Disentangled VAE
+- [] Transfer learning
 
-Outcome of course -
-Denoise
-Voice recognition - speech to text.
-Text to image classification, ie find an image based on text, the text isnt a category but a convnet.
-Form a sentence and form various images based on the sentence.
+
+- [] Image Denoiser
+- [] Voice recognition - speech to text.
+- [] Text to image classification, ie find an image based on text, the text isnt a category but a convnet.
+- [] Form a sentence and form various images based on the sentence.
 
 
 *Need to read*
@@ -133,8 +133,8 @@ Form a sentence and form various images based on the sentence.
 
 
 *Need to watch*
-- [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
-- [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
+- [] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
+- [] [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 # Authors to follow
 
