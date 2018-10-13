@@ -87,9 +87,9 @@ Look at
 - https://kubernetes.io/
 - https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-machine-learning-generated-image-captions/
 
-- [] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
+- [x] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
 
-- [] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
+- [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
 
 
@@ -105,21 +105,21 @@ https://arxiv.org/list/cs.LG/recent
 # Concepts to understand
 
 - [ ] Trust Region Policy Optimization - John Schulman Berkeley
-- [] Q-Learning
-- [] Autoencoders
-- [] Temporal Difference
-- [] Reinforcement learning
-- [] Monte Carlo Tree Search
-- [] neural impainting
-- [] Reinforcement Learning
-- [] Disentangled VAE
-- [] Transfer learning
+- [ ] Q-Learning
+- [ ] Autoencoders
+- [ ] Temporal Difference
+- [ ] Reinforcement learning
+- [ ] Monte Carlo Tree Search
+- [ ] neural impainting
+- [ ] Reinforcement Learning
+- [ ] Disentangled VAE
+- [ ] Transfer learning
 
 
-- [] Image Denoiser
-- [] Voice recognition - speech to text.
-- [] Text to image classification, ie find an image based on text, the text isnt a category but a convnet.
-- [] Form a sentence and form various images based on the sentence.
+- [ ] Image Denoiser
+- [ ] Voice recognition - speech to text.
+- [ ] Text to image classification, ie find an image based on text, the text isnt a category but a convnet.
+- [ ] Form a sentence and form various images based on the sentence.
 
 
 *Need to read*
@@ -133,14 +133,17 @@ https://arxiv.org/list/cs.LG/recent
 
 
 *Need to watch*
-- [] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
-- [] [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
+- [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
+  - [x] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
+- [ ] [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 # Authors to follow
 
 # Vloggers to follow
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+
 - [Sung Kim](https://www.youtube.com/user/hunkims/videos)
+  - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
 # Other Git Repositories
 
