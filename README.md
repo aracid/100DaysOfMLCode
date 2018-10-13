@@ -30,6 +30,7 @@ VAE is different because it has 2 terms, mean and standard deviation.
 
 
 **Links:**
+
 :heavy_check_mark: [Lecture 4.5 Q-Learning Tutorial of Move 37](https://www.youtube.com/watch?v=tU6_Fc6bKyQ)
 
 :heavy_check_mark: [Neural Material Synthesis, This Time On Steroids](https://www.youtube.com/watch?v=UkWnExEFADI&feature=em-uploademail)
@@ -69,12 +70,13 @@ Entropy : The average amount of information you get from one sample drawn given 
 4 Hours
 
 [IBM COMMUNITY DAY : Jump Start AI at your Organization](https://www.ibmai-platform.bemyapp.com/#/conference/5bbea3d1bfd6260003e21103)
-
 A wonderful talk by Pam Askar
+
 https://www.ironsidegroup.com/
 https://www.ironsidegroup.com/event/intro-ai-workshop/
 
 [IBM COMMUNITY DAY : Model Asset Exchange](https://www.ibmai-platform.bemyapp.com/#/conference/5bb53d8db4ae3f00044cb9f2)
+
 https://developer.ibm.com/code/exchanges/models/
 
 Fabric for Deep Learning
@@ -85,12 +87,14 @@ Look at
 - https://kubernetes.io/
 - https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-machine-learning-generated-image-captions/
 
-[Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
+:check_mark: [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
 
-[PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
+:check_mark: [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
 
-*Links*
+
+
+# *Links*
 
 Daily Reading Material
 
