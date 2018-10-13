@@ -31,13 +31,13 @@ VAE is different because it has 2 terms, mean and standard deviation.
 
 **Links:**
 
-:heavy_check_mark: [Lecture 4.5 Q-Learning Tutorial of Move 37](https://www.youtube.com/watch?v=tU6_Fc6bKyQ)
+- [x] [Lecture 4.5 Q-Learning Tutorial of Move 37](https://www.youtube.com/watch?v=tU6_Fc6bKyQ)
 
-:heavy_check_mark: [Neural Material Synthesis, This Time On Steroids](https://www.youtube.com/watch?v=UkWnExEFADI&feature=em-uploademail)
+- [x] [Neural Material Synthesis, This Time On Steroids](https://www.youtube.com/watch?v=UkWnExEFADI&feature=em-uploademail)
 
-:heavy_check_mark: [How AlphaGo Zero works - Google DeepMind](https://www.youtube.com/watch?v=MgowR4pq3e8)
+- [x] [How AlphaGo Zero works - Google DeepMind](https://www.youtube.com/watch?v=MgowR4pq3e8)
 
-:heavy_check_mark: [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+- [x] [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
 
 
 ## Day 2 : October 10th 2018
@@ -91,7 +91,13 @@ Look at
 
 - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
+## Day 4 : Octover 14th 2018
 
+- [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
+
+- [x][GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
+- [x][Knowledge Graphs & Deep Learning at YouTube](https://www.youtube.com/watch?v=zzTbptEdKhY)
+- [ ][Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
 
 
 # *Links*
@@ -118,24 +124,28 @@ https://arxiv.org/list/cs.LG/recent
 
 - [ ] Image Denoiser
 - [ ] Voice recognition - speech to text.
-- [ ] Text to image classification, ie find an image based on text, the text isnt a category but a convnet.
+- [ ] Text to image classification, ie. find an image based on text, the text isn't a category but a convnet.
 - [ ] Form a sentence and form various images based on the sentence.
 
 
 *Need to read*
-- Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
-- Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
-- Original VAE paper (2013): https://arxiv.org/abs/1312.6114
-- Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
-- Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
-- Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
-- [NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
-
+- [ ]Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
+- [ ]Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
+- [ ]Original VAE paper (2013): https://arxiv.org/abs/1312.6114
+- [ ]Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
+- [ ]Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
+- [ ]Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
+- [ ][NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
+- [ ][Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
 
 *Need to watch*
 - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
+  - [x] [1 Intro to MDPs and Exact Solution Methods -- Pieter Abbeel](https://www.youtube.com/watch?v=qaMdN6LS9rA)
   - [x] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
 - [ ] [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
+
+
+
 
 # Authors to follow
 
@@ -143,10 +153,56 @@ https://arxiv.org/list/cs.LG/recent
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 
 - [Sung Kim](https://www.youtube.com/user/hunkims/videos)
+  - [x] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
   - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
+
+
+# Videos To Watch
+
+- [ ] [Quantum Machine Learning LIVE](https://www.youtube.com/watch?time_continue=553&v=AAO4oq2M_48)
+
+Bloomberg
+- [ ] [1. Black Box Machine Learning](https://www.youtube.com/watch?v=MsD28INtSv8)
+- [ ] [2. Case Study: Churn Prediction](https://www.youtube.com/watch?v=kE_t3Mm8Z50)
+- [ ] [3. Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0)
+- [ ] [4. Stochastic Gradient Descent](https://www.youtube.com/watch?v=5TZww5bTROE)
+- [ ] [5. Excess Risk Decomposition](https://www.youtube.com/watch?v=YA_CE9jat4I)
+- [ ] [6. L1 & L2 Regularization](https://www.youtube.com/watch?v=d6XDOS4btck)
+- [ ] [7. Lasso, Ridge, and Elastic Net](https://www.youtube.com/watch?v=KIoz_aa1ed4)
+- [ ] [8. Loss Functions for Regression and Classification](https://www.youtube.com/watch?v=1oi_Mwozj5w)
+- [ ] [9. Lagrangian Duality and Convex Optimization](https://www.youtube.com/watch?v=thuYiebq1cE)
+- [ ] [10. Support Vector Machines](https://www.youtube.com/watch?v=9zi6-RjlYrU)
+- [ ] [11. Subgradient Descent](https://www.youtube.com/watch?v=jYtCiV1aP44)
+- [ ] [12. Feature Extraction](https://www.youtube.com/watch?v=gmli6EyiNRw)
+- [ ] [13. Kernel Methods](https://www.youtube.com/watch?v=m1otj-SdwYw)
+- [ ] [14. Performance Evaluation](https://www.youtube.com/watch?v=xMyAL0C6cPY)
+- [ ] [15. "City Sense": Probabilistic Modeling for Unusual Behavior Detection](https://www.youtube.com/watch?v=6nolrvzXiE4)
+- [ ] [16. Maximum Likelihood Estimation](https://www.youtube.com/watch?v=ec_5vvxW7fE)
+- [ ] [17. Conditional Probability Models](https://www.youtube.com/watch?v=JrFj0xpGd2Q)
+- [ ] [18. Bayesian Methods](https://www.youtube.com/watch?v=VCfrGjDPC6k)
+- [ ] [19. Bayesian Conditional Probability Models](https://www.youtube.com/watch?v=Mo4p2B37LwY)
+- [ ] [20. Classification and Regression Trees](https://www.youtube.com/watch?v=GZuweldJWrM)
+- [ ] [21. Basic Statistics and a Bit of Bootstrap](https://www.youtube.com/watch?v=lr5WH-JVT5I)
+- [ ] [22. Bagging and Random Forest](https://www.youtube.com/watch?v=f2S4hVs-ESw)
+- [ ] [23. Gradient Boosting](hhttps://www.youtube.com/watch?v=fz1H03ZKvLM)
+- [ ] [24. Multiclass and Introduction to Structured Prediction](https://www.youtube.com/watch?v=WMQwtoMUjDA)
+- [ ] [25. k-Means Clustering](https://www.youtube.com/watch?v=J0A_tkIgutw)
+- [ ] [26. Gaussian Mixture Models](https://www.youtube.com/watch?v=I9dfOMAhsug)
+- [ ] [27. EM Algorithm for Latent Variable Models](https://www.youtube.com/watch?v=lMShR1vjbUo)
+- [ ] [28. Neural Networks](https://www.youtube.com/watch?v=Wr11D5sObzc)
+- [ ] [29. Backpropagation and the Chain Rule](https://www.youtube.com/watch?v=XIpyEvLv93A)
+- [ ] [30. Next Steps](https://www.youtube.com/watch?v=RMmAVrhAfWs)
+
+
 
 # Other Git Repositories
 
 [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+
+[prakhar21/100-Days-of-ML](https://github.com/prakhar21/100-Days-of-ML)
+
+[Deep Learning: Theory and Experiments](https://github.com/roatienza/Deep-Learning-Experiments)
+
+[Data Science](https://www.youtube.com/user/sgpolitics/videos)
