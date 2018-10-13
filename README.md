@@ -104,7 +104,7 @@ https://arxiv.org/list/cs.LG/recent
 
 # Concepts to understand
 
-- [] Trust Region Policy Optimization - John Schulman Berkeley
+- [ ] Trust Region Policy Optimization - John Schulman Berkeley
 - [] Q-Learning
 - [] Autoencoders
 - [] Temporal Difference
