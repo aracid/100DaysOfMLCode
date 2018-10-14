@@ -97,12 +97,16 @@ Today I went through a DL course, started playing with Keras Gan tutorial. Looke
 
 - [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
 
-- [x][GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
-- [x][Knowledge Graphs & Deep Learning at YouTube](https://www.youtube.com/watch?v=zzTbptEdKhY)
-- [x][Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
-- [x][Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
-- [x][Generative Model Basics (Character-Level) - Unconventional Neural Networks in Python and Tensorflow p.1](https://pythonprogramming.net/generative-model-python-playing-neural-network-tensorflow/)
+- [x] [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
+- [x] [Knowledge Graphs & Deep Learning at YouTube](https://www.youtube.com/watch?v=zzTbptEdKhY)
+- [x] [Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
+- [x] [Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
+- [x] [Generative Model Basics (Character-Level) - Unconventional Neural Networks in Python and Tensorflow p.1](https://pythonprogramming.net/generative-model-python-playing-neural-network-tensorflow/)
+- [x] [Generating Pythonic code with Character Generative Model - Unconventional Neural Networks in Python and Tensorflow p.2](https://pythonprogramming.net/generating-python-playing-neural-network-tensorflow/)
 
+- [x] [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+
+Spent a fair amount of time working through the examples in this tutorial, trained using images our of Redshift.
 
 
 
@@ -172,6 +176,8 @@ https://arxiv.org/list/cs.LG/recent
 - [ ][Deep Learning in the Browser with TensorFlow.js Tutorial Introduction - TensorFlow.js Tutorial p.1](https://pythonprogramming.net/deep-learning-browser-introduction-tensorflowjs/)
 - [x][Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
 - [x][Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
+
+- [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
 
 # Videos To Watch
 
