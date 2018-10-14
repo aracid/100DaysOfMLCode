@@ -66,7 +66,7 @@ Entropy : The average amount of information you get from one sample drawn given 
 
 [TensorFlow 2.0 Changes](https://www.youtube.com/watch?v=WTNH0tcscqo)
 
-## Day 3 : Octover 12th 2018
+## Day 4 : Octover 12th 2018
 4 Hours
 
 [IBM COMMUNITY DAY : Jump Start AI at your Organization](https://www.ibmai-platform.bemyapp.com/#/conference/5bbea3d1bfd6260003e21103)
@@ -91,12 +91,11 @@ Look at
 
 - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
-## Day 4 : October 14th 2018
+## Day 5 : October 14th 2018
 
 Today I went through a DL course, started playing with Keras Gan tutorial. Looked at VCA and need to learn more about.
 
-- [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
-
+- [x] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
 - [x] [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
 - [x] [Knowledge Graphs & Deep Learning at YouTube](https://www.youtube.com/watch?v=zzTbptEdKhY)
 - [x] [Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
@@ -145,11 +144,11 @@ https://arxiv.org/list/cs.LG/recent
 - [ ]Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
 - [ ]Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
 - [ ]Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
-- [ ][NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
-- [ ][Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
-- [ ][Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
-- [ ][Deploying Deep Learning](https://github.com/dusty-nv/jetson-inference)
-- [ ][ML-Agents Toolkit v0.5, new resources for AI researchers available now](https://blogs.unity3d.com/2018/09/11/ml-agents-toolkit-v0-5-new-resources-for-ai-researchers-available-now/)
+- [ ] [NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
+- [ ] [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
+- [ ] [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+- [ ] [Deploying Deep Learning](https://github.com/dusty-nv/jetson-inference)
+- [ ] [ML-Agents Toolkit v0.5, new resources for AI researchers available now](https://blogs.unity3d.com/2018/09/11/ml-agents-toolkit-v0-5-new-resources-for-ai-researchers-available-now/)
 
 *Need to watch*
 - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
@@ -171,11 +170,11 @@ https://arxiv.org/list/cs.LG/recent
   - [x] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
   - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
-  [Sentdex]
-- [x][Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
-- [ ][Deep Learning in the Browser with TensorFlow.js Tutorial Introduction - TensorFlow.js Tutorial p.1](https://pythonprogramming.net/deep-learning-browser-introduction-tensorflowjs/)
-- [x][Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
-- [x][Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
+- [Sentdex](https://www.youtube.com/user/sentdex)
+- [x] [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
+- [ ] [Deep Learning in the Browser with TensorFlow.js Tutorial Introduction - TensorFlow.js Tutorial p.1](https://pythonprogramming.net/deep-learning-browser-introduction-tensorflowjs/)
+- [x] [Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
+- [x] [Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
 
 - [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
 
