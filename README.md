@@ -91,13 +91,19 @@ Look at
 
 - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
-## Day 4 : Octover 14th 2018
+## Day 4 : October 14th 2018
+
+Today I went through a DL course, started playing with Keras Gan tutorial. Looked at VCA and need to learn more about.
 
 - [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
 
 - [x][GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
 - [x][Knowledge Graphs & Deep Learning at YouTube](https://www.youtube.com/watch?v=zzTbptEdKhY)
-- [ ][Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
+- [x][Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
+- [x][Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
+- [x][Generative Model Basics (Character-Level) - Unconventional Neural Networks in Python and Tensorflow p.1](https://pythonprogramming.net/generative-model-python-playing-neural-network-tensorflow/)
+
+
 
 
 # *Links*
@@ -137,15 +143,20 @@ https://arxiv.org/list/cs.LG/recent
 - [ ]Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
 - [ ][NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
 - [ ][Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
+- [ ][Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+- [ ][Deploying Deep Learning](https://github.com/dusty-nv/jetson-inference)
+- [ ][ML-Agents Toolkit v0.5, new resources for AI researchers available now](https://blogs.unity3d.com/2018/09/11/ml-agents-toolkit-v0-5-new-resources-for-ai-researchers-available-now/)
 
 *Need to watch*
 - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
   - [x] [1 Intro to MDPs and Exact Solution Methods -- Pieter Abbeel](https://www.youtube.com/watch?v=qaMdN6LS9rA)
   - [x] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
 - [ ] [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
+- [ ] [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
+- [ ] [Intro to Graph Convolutional Networks](https://www.youtube.com/watch?v=UAwrDY_Bcdc)
 
-
-
+# Courses to do
+- [ ][INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
 # Authors to follow
 
@@ -156,6 +167,11 @@ https://arxiv.org/list/cs.LG/recent
   - [x] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
   - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
+  [Sentdex]
+- [x][Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
+- [ ][Deep Learning in the Browser with TensorFlow.js Tutorial Introduction - TensorFlow.js Tutorial p.1](https://pythonprogramming.net/deep-learning-browser-introduction-tensorflowjs/)
+- [x][Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
+- [x][Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
 
 # Videos To Watch
 
@@ -206,3 +222,5 @@ Bloomberg
 [Deep Learning: Theory and Experiments](https://github.com/roatienza/Deep-Learning-Experiments)
 
 [Data Science](https://www.youtube.com/user/sgpolitics/videos)
+
+[Papers on deep learning for video analysis](https://github.com/HuaizhengZhang/Papers-on-deep-learning-for-video-analysis)
