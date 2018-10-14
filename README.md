@@ -1,6 +1,6 @@
 # 100DaysOfMLCode
 Repository of the AI journey 100 Days of ML Code
-Total Time : 4 Hours
+Total Time : 10.45 Hours
 
 # 100 Days Of ML Code
 
@@ -92,6 +92,7 @@ Look at
 - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
 
 ## Day 5 : October 14th 2018
+5 Hour's
 
 Today I went through a DL course, started playing with Keras Gan tutorial. Looked at VCA and need to learn more about.
 
@@ -105,8 +106,8 @@ Today I went through a DL course, started playing with Keras Gan tutorial. Looke
 
 - [x] [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 
-Spent a fair amount of time working through the examples in this tutorial, trained using images our of Redshift.
-
+Spent a fair amount of time working through the examples in this tutorial, trained using images our of Redshift. Started getting an intuition towards keras.
+- [x] [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks#authors)
 
 
 # *Links*
@@ -138,12 +139,12 @@ https://arxiv.org/list/cs.LG/recent
 
 
 *Need to read*
-- [ ]Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
-- [ ]Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
-- [ ]Original VAE paper (2013): https://arxiv.org/abs/1312.6114
-- [ ]Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
-- [ ]Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
-- [ ]Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
+- [ ] Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
+- [ ] Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
+- [ ] Original VAE paper (2013): https://arxiv.org/abs/1312.6114
+- [ ] Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
+- [ ] Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
+- [ ] Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
 - [ ] [NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
 - [ ] [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
 - [ ] [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
