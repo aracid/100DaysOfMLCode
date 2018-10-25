@@ -97,7 +97,6 @@ Look at
 Today I went through a DL course, started playing with Keras Gan tutorial. Looked at VCA and need to learn more about.
 
 - [x] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
-- [x] [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
 - [x] [Knowledge Graphs & Deep Learning at YouTube](https://www.youtube.com/watch?v=zzTbptEdKhY)
 - [x] [Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
 - [x] [Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
@@ -109,6 +108,16 @@ Today I went through a DL course, started playing with Keras Gan tutorial. Looke
 Spent a fair amount of time working through the examples in this tutorial, trained using images our of Redshift. Started getting an intuition towards keras.
 - [x] [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks#authors)
 
+
+## Day 6 : October 15th 2018
+
+- [ ] [GAN by Example using Keras on Tensorflow Backend](https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
+
+## Day 7 : October 22th 2018
+- [x] [Multilayer Light Simulations: More Beautiful Images, Faster](https://www.youtube.com/watch?v=Bv3yat484aQ&feature=em-lsp)
+- [x] [Implementation of Auxiliary Classifier Generative Adversarial Network](https://arxiv.org/pdf/1610.09585.pdf)
+- [x] [Adversarial Autoencoder](https://arxiv.org/pdf/1511.05644.pdf)
+- [x] [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)(https://www.youtube.com/watch?v=WCUNPb-5EYI&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa)
 
 # *Links*
 
@@ -158,6 +167,7 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 - [ ] [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
 - [ ] [Intro to Graph Convolutional Networks](https://www.youtube.com/watch?v=UAwrDY_Bcdc)
+- [ ] [Deep Q Learning Pong Tutorial](https://www.youtube.com/watch?v=pST6caY3mu8)
 
 # Courses to do
 - [ ][INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
@@ -170,6 +180,9 @@ https://arxiv.org/list/cs.LG/recent
 - [Sung Kim](https://www.youtube.com/user/hunkims/videos)
   - [x] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M)
   - [x] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE)
+
+- [Brandon Rohrer](https://www.youtube.com/channel/UCsBKTrp45lTfHa_p49I2AEQ)
+- [x] [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)(https://www.youtube.com/watch?v=WCUNPb-5EYI&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa)
 
 - [Sentdex](https://www.youtube.com/user/sentdex)
 - [x] [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
