@@ -121,20 +121,21 @@ Spent a fair amount of time working through the examples in this tutorial, train
 
 ## Day 8 : October 26th 2018
 - [x] [Bellman Equation Advanced for Reinforcement Learning](https://www.youtube.com/watch?v=aNuOLwojyfg)\
-- [ ] [https://www.youtube.com/watch?v=mMEFFN1H5Cg](Monte Carlo Reinforcement Learning Tutorial)
+- [ ] [Monte Carlo Reinforcement Learning Tutorial](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
 
 ## Day 9 : October 28th 2018
   5 Hours
 - [x] [This AI Learned How To Generate Human Appearance](https://www.youtube.com/watch?v=F-00NhYUnH4&feature=em-lsp)
-- [x] [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/)
-- [x] [A Variational U-Net for Conditional Appearance and Shape Generation](https://arxiv.org/pdf/1804.04694.pdf)
+- [x] [A Variational U-Net for Conditional Appearance and Shape Generation](https://arxiv.org/pdf/1804.04694.pdf) https://compvis.github.io/vunet/
 - [x] [COCO 2018 Object Detection Task](http://cocodataset.org/#detection-2018)
   This is something I'd like to integrate into Terrarium.
-- [x] [Differential equations introduction](https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/modal/v/differential-equation-introduction)
-- [x] [](https://www.youtube.com/watch?v=pW6nZXeWlGM)
-
-
-
+- [x] [Differential equations introduction](https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/modal/v/differential-equation-introduction) Khan Academy
+- [x] [Realtime Multi-Person 2D Human Pose Estimation using Part Affinity Fields, CVPR 2017 Oral](https://www.youtube.com/watch?v=pW6nZXeWlGM)
+- [x] [StyLit, Illumination-Guided Artistic Style Transfer | Two Minute Papers #91](https://www.youtube.com/watch?v=ksCSL6Ql0Yg)
+- [x] [Neural Style Transfer In Keras](https://markojerkic.com/style-transfer-keras/)
+- [x] [The Fastest Path To Deep Learning](https://www.youtube.com/watch?v=T0r-uCXvDzQ)
+- [x] [Bringing Impressionism to Life with Neural Style Transfer in Come Swim](https://arxiv.org/pdf/1701.04928.pdf)
+- [x] [Making AI Art with Style Transfer using Keras](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 
 
 
@@ -158,14 +159,14 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] Reinforcement Learning
 - [ ] Disentangled VAE
 - [ ] Transfer learning
-- [ ]  Autoregressive (AR) models
+- [ ] Autoregressive (AR) models
 
 
 - [ ] Image Denoiser
 - [ ] Voice recognition - speech to text.
 - [ ] Text to image classification, ie. find an image based on text, the text isn't a category but a convnet.
 - [ ] Form a sentence and form various images based on the sentence.
-
+- [ ] [Model Zoo](https://modelzoo.co/) Implement some models
 
 *Need to read*
 - [ ] Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
@@ -188,6 +189,8 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
 - [ ] [Intro to Graph Convolutional Networks](https://www.youtube.com/watch?v=UAwrDY_Bcdc)
 - [ ] [Deep Q Learning Pong Tutorial](https://www.youtube.com/watch?v=pST6caY3mu8)
+- [ ] [Visualizing and Understanding Convolutional Neural Networks](https://arxiv.org/pdf/1311.2901v1.pdf)
+
 
 # Courses to do
 - [ ][INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
