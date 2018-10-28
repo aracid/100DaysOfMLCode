@@ -119,6 +119,25 @@ Spent a fair amount of time working through the examples in this tutorial, train
 - [x] [Adversarial Autoencoder](https://arxiv.org/pdf/1511.05644.pdf)
 - [x] [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)(https://www.youtube.com/watch?v=WCUNPb-5EYI&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa)
 
+## Day 8 : October 26th 2018
+- [x] [Bellman Equation Advanced for Reinforcement Learning](https://www.youtube.com/watch?v=aNuOLwojyfg)\
+- [ ] [https://www.youtube.com/watch?v=mMEFFN1H5Cg](Monte Carlo Reinforcement Learning Tutorial)
+
+## Day 9 : October 28th 2018
+  5 Hours
+- [x] [This AI Learned How To Generate Human Appearance](https://www.youtube.com/watch?v=F-00NhYUnH4&feature=em-lsp)
+- [x] [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/)
+- [x] [A Variational U-Net for Conditional Appearance and Shape Generation](https://arxiv.org/pdf/1804.04694.pdf)
+- [x] [COCO 2018 Object Detection Task](http://cocodataset.org/#detection-2018)
+  This is something I'd like to integrate into Terrarium.
+- [x] [Differential equations introduction](https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/modal/v/differential-equation-introduction)
+- [x] [](https://www.youtube.com/watch?v=pW6nZXeWlGM)
+
+
+
+
+
+
 # *Links*
 
 Daily Reading Material
@@ -135,10 +154,11 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] Temporal Difference
 - [ ] Reinforcement learning
 - [ ] Monte Carlo Tree Search
-- [ ] neural impainting
+- [ ] Neural Impainting
 - [ ] Reinforcement Learning
 - [ ] Disentangled VAE
 - [ ] Transfer learning
+- [ ]  Autoregressive (AR) models
 
 
 - [ ] Image Denoiser
