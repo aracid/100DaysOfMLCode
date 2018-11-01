@@ -180,6 +180,15 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 - [ ] [Deploying Deep Learning](https://github.com/dusty-nv/jetson-inference)
 - [ ] [ML-Agents Toolkit v0.5, new resources for AI researchers available now](https://blogs.unity3d.com/2018/09/11/ml-agents-toolkit-v0-5-new-resources-for-ai-researchers-available-now/)
+- [ ] [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [ ] [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [ ] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
+- [ ] [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
+- [ ] [Going Deeper with Convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+- [ ] [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5.pdf)
+- [ ] [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+- [ ] [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
+
 
 *Need to watch*
 - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
@@ -190,10 +199,13 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Intro to Graph Convolutional Networks](https://www.youtube.com/watch?v=UAwrDY_Bcdc)
 - [ ] [Deep Q Learning Pong Tutorial](https://www.youtube.com/watch?v=pST6caY3mu8)
 - [ ] [Visualizing and Understanding Convolutional Neural Networks](https://arxiv.org/pdf/1311.2901v1.pdf)
-
+- [ ] [Lecture 1 | Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+- [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 # Courses to do
 - [ ][INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
+- [ ][Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+- [ ][Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 
 # Authors to follow
 
@@ -266,3 +278,5 @@ Bloomberg
 [Data Science](https://www.youtube.com/user/sgpolitics/videos)
 
 [Papers on deep learning for video analysis](https://github.com/HuaizhengZhang/Papers-on-deep-learning-for-video-analysis)
+
+[Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
