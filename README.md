@@ -121,7 +121,7 @@ Spent a fair amount of time working through the examples in this tutorial, train
 
 ## Day 8 : October 26th 2018
 - [x] [Bellman Equation Advanced for Reinforcement Learning](https://www.youtube.com/watch?v=aNuOLwojyfg)\
-- [ ] [Monte Carlo Reinforcement Learning Tutorial](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
+- [x] [Monte Carlo Reinforcement Learning Tutorial](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
 
 ## Day 9 : October 28th 2018
   5 Hours
@@ -137,7 +137,11 @@ Spent a fair amount of time working through the examples in this tutorial, train
 - [x] [Bringing Impressionism to Life with Neural Style Transfer in Come Swim](https://arxiv.org/pdf/1701.04928.pdf)
 - [x] [Making AI Art with Style Transfer using Keras](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 
-
+## Day 10 : November 4th 2018
+- [ ] [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016 - 6. Monte Carlo Simulation](https://www.youtube.com/watch?v=OgO1gpXSUzU&t=1s)
+- [x] [Move - 37 - Introduction](https://www.theschool.ai/courses/move-37-course/lessons/introduction/)
+- [x] [The Bellman Equation](https://www.youtube.com/watch?v=JMpslE8GtCo)
+- [x] [Markov Decision Processes](https://www.theschool.ai/courses/move-37-course/lessons/markovdecisionprocesses/)
 
 # *Links*
 
