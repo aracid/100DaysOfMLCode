@@ -143,6 +143,17 @@ Spent a fair amount of time working through the examples in this tutorial, train
 - [x] [The Bellman Equation](https://www.youtube.com/watch?v=JMpslE8GtCo)
 - [x] [Markov Decision Processes](https://www.theschool.ai/courses/move-37-course/lessons/markovdecisionprocesses/)
 
+## Day 11 : November 10 2018
+- [x] [A Distributed Deep Search Engine](https://cs.nyu.edu/courses/spring17/CSCI-GA.3033-006/final_projects/distributed_deep_image_search_engine.pdf?fbclid=IwAR3uZfypQ7EGn7mRCk1ZYDO7nzR3fryMy4rtSIvf_4qWgzlO1cWWjQmDipA)
+What seems to be a straight forward approach, unfortunately not producing very good results.
+- [x][TOWARDS PRINCIPLED METHODS FOR TRAINING GENERATIVE ADVERSARIAL NETWORKS](https://openreview.net/pdf?id=Hk4_qw5xe)
+This paper is too theoretical for me.  
+- [ ][Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
+- [x][The Next Leap: How A.I. will change the 3D industry](https://www.youtube.com/watch?v=FlgLxSLsYWQ&feature=youtu.be)
+- [x][The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
+- [ ][Learning to Localize Sound Source in Visual Scenes](https://arxiv.org/pdf/1803.03849.pdf)
+
+
 # *Links*
 
 Daily Reading Material
@@ -173,6 +184,7 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Model Zoo](https://modelzoo.co/) Implement some models
 
 *Need to read*
+- [ ] [TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
 - [ ] Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
 - [ ] Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
 - [ ] Original VAE paper (2013): https://arxiv.org/abs/1312.6114
@@ -192,7 +204,7 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524v5.pdf)
 - [ ] [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
 - [ ] [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
-
+- [ ] [Theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf)
 
 *Need to watch*
 - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
@@ -210,6 +222,7 @@ https://arxiv.org/list/cs.LG/recent
 - [ ][INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 - [ ][Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ][Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [ ][Neural networks deep learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 
 # Authors to follow
 
@@ -228,7 +241,7 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Deep Learning in the Browser with TensorFlow.js Tutorial Introduction - TensorFlow.js Tutorial p.1](https://pythonprogramming.net/deep-learning-browser-introduction-tensorflowjs/)
 - [x] [Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
 - [x] [Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
-
+- [x][Why is deep learning taking off](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/praGm/why-is-deep-learning-taking-off)
 - [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
 
 # Videos To Watch
@@ -236,9 +249,9 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Quantum Machine Learning LIVE](https://www.youtube.com/watch?time_continue=553&v=AAO4oq2M_48)
 
 Bloomberg
-- [ ] [1. Black Box Machine Learning](https://www.youtube.com/watch?v=MsD28INtSv8)
-- [ ] [2. Case Study: Churn Prediction](https://www.youtube.com/watch?v=kE_t3Mm8Z50)
-- [ ] [3. Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0)
+- [x] [1. Black Box Machine Learning](https://www.youtube.com/watch?v=MsD28INtSv8)
+- [x] [2. Case Study: Churn Prediction](https://www.youtube.com/watch?v=kE_t3Mm8Z50)
+- [x] [3. Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0)
 - [ ] [4. Stochastic Gradient Descent](https://www.youtube.com/watch?v=5TZww5bTROE)
 - [ ] [5. Excess Risk Decomposition](https://www.youtube.com/watch?v=YA_CE9jat4I)
 - [ ] [6. L1 & L2 Regularization](https://www.youtube.com/watch?v=d6XDOS4btck)
@@ -272,6 +285,8 @@ Bloomberg
 # Other Git Repositories
 
 [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+
+[Machine Learning Notebooks](https://github.com/ageron/handson-ml)
 
 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
