@@ -4,6 +4,8 @@ Total Time : 10.45 Hours
 
 # 100 Days Of ML Code
 
+https://developers.google.com/machine-learning/glossary/
+
 ## Day 1 : October 9th 2018
 1 Hour
 
@@ -153,6 +155,26 @@ This paper is too theoretical for me.
 - [x][The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
 - [ ][Learning to Localize Sound Source in Visual Scenes](https://arxiv.org/pdf/1803.03849.pdf)
 
+## Day 12 : November 17 2018
+- [x][Machine Learning Agents In Unity](https://www.youtube.com/playlist?list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX)
+- [x][Unity at GDC - Unity Machine Learning: ML-Agents 0.3](https://www.youtube.com/watch?v=YsEDv13W1RI)
+  Implemented ML agents in unity.
+- [x][Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://www.youtube.com/watch?v=5P7I-xPq8u8)
+
+## Day 13 : November 30 2018
+- [x][Deep Dive into Concepts and Tools for Analyzing Streaming Data on AWS](https://www.aws.training/learningobject/video?id=27504)
+
+## Day 14 : December 13 2018
+- [x][Geometric Deep Learning](https://www.youtube.com/watch?v=D3fnGG7cdjY)
+- [][Seeing Clearly: Computer Vision Theory](https://www.aws.training/transcript/curriculumplayer?transcriptId=NkfCyQuvW0S7HbTbTy9htg2)
+  Introduction to AWS DeepLens
+- [x][Deep Dive into Concepts and Tools for Analyzing Streaming Data on AWS]
+- [x][Hands-on Rekognition: Automated Video Editing]
+- [x][Semantic Segmentation Explained]
+- [x][Introduction to AWS DeepLens]
+- [x][Introduction to Amazon Rekognition]
+- [x][LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://arxiv.org/pdf/1809.11096.pdf)
+- [x][Lipschitz condition](https://www.youtube.com/watch?v=Cnc83B3C2pY)
 
 # *Links*
 
@@ -175,6 +197,7 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] Disentangled VAE
 - [ ] Transfer learning
 - [ ] Autoregressive (AR) models
+- [x] Policy Gradient methods and Proximal Policy Optimization (PPO)
 
 
 - [ ] Image Denoiser
@@ -280,6 +303,9 @@ Bloomberg
 - [ ] [29. Backpropagation and the Chain Rule](https://www.youtube.com/watch?v=XIpyEvLv93A)
 - [ ] [30. Next Steps](https://www.youtube.com/watch?v=RMmAVrhAfWs)
 
+
+Reinforcement Learning
+ - [ ] [CS885 Lecture 1a: Course Introduction](https://www.youtube.com/watch?v=xoxz-OmcL1Q)
 
 
 # Other Git Repositories
