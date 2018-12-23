@@ -305,7 +305,7 @@ Bloomberg
 
 
 Reinforcement Learning
- - [ ] [CS885 Lecture 1a: Course Introduction](https://www.youtube.com/watch?v=xoxz-OmcL1Q)
+ - [x] [CS885 Lecture 1a: Course Introduction](https://www.youtube.com/watch?v=xoxz-OmcL1Q)
 
 
 # Other Git Repositories
