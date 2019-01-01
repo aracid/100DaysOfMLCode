@@ -176,6 +176,36 @@ This paper is too theoretical for me.
 - [x][LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://arxiv.org/pdf/1809.11096.pdf)
 - [x][Lipschitz condition](https://www.youtube.com/watch?v=Cnc83B3C2pY)
 
+## Day 14 : December 24 2018
+- [x] [CS885 Lecture 1b: Markov Processes](https://www.youtube.com/watch?v=yOWBb0mqENw)
+- [x] [CS885 Lecture 2a: Markov Decision Processes](https://www.youtube.com/watch?v=SWYceQpEVKM)
+- [] [CS885 Lecture 4b: Deep Q-Networks](https://www.youtube.com/watch?v=KPmR0NZgK1I)
+
+
+## Day 15 : December 25 2018
+- [x][Binary Classification](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Z8j0R/binary-classification)
+- [x][Logistic Regression](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/LoKih/logistic-regression)
+- [x][3.2: Linear Regression with Ordinary Least Squares Part 1 - Intelligence and Learning](https://www.youtube.com/watch?v=szXbuO3bVRk&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj&index=5)
+- [x][Introduction to Spell (for Machine Learning in the Cloud)](https://www.youtube.com/watch?v=ggBOAPtFjYU&list=PLRqwX-V7Uu6Y6kSfxOjq5zk4gkDK8q_n1)
+- [x][10.1: Introduction to Neural Networks - The Nature of Code](https://www.youtube.com/watch?v=XJ7HLz9VYz0&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+- [][10.3: Neural Networks: Perceptron Part 2 - The Nature of Code](https://www.youtube.com/watch?v=DGxIcDjPzac&index=3&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+- [x][5.1: Doodle Classifier: Introduction - Intelligence and Learning](https://www.youtube.com/watch?v=pqY_Tn2SIVA&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQs)
+- [x][5.2: Doodle Classifier: Prepping Data in Processing - Intelligence and Learning](https://www.youtube.com/watch?v=gX7U6WA7Ffk&index=2&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
+- [x][5.3: Doodle Classifier: Prepping Data in p5.js - Intelligence and Learning](https://www.youtube.com/watch?v=wMe6qcpD8jI&index=3&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
+- [x][Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8)
+
+- [][Training a Deep Q-Network with Fixed Q-targets - Reinforcement Learning](https://www.youtube.com/watch?v=xVkPh9E9GfE)
+- [x][IBM Watson Discovery](https://www.youtube.com/watch?v=2jbMoGrFOuE&feature=youtu.be)
+- [][Coding Challenge #128: Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)
+
+
+## 16 : January 01 2019
+- [x][1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
+  Watched the video but need to actually download and run the paperspace instance.
+
+
+
+
 # *Links*
 
 Daily Reading Material
@@ -240,6 +270,8 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Visualizing and Understanding Convolutional Neural Networks](https://arxiv.org/pdf/1311.2901v1.pdf)
 - [ ] [Lecture 1 | Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [][Explainable Artificial Intelligence (XAI): Why, When, and How? by Mridul Mishra at #ODSC_India](https://www.youtube.com/watch?v=ImFy0ssfqIg)
+
 
 # Courses to do
 - [ ][INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
@@ -306,7 +338,8 @@ Bloomberg
 
 Reinforcement Learning
  - [x] [CS885 Lecture 1a: Course Introduction](https://www.youtube.com/watch?v=xoxz-OmcL1Q)
-
+ - [x] [CS885 Lecture 1b: Markov Processes](https://www.youtube.com/watch?v=yOWBb0mqENw)
+ - [x] [CS885 Lecture 2a: Markov Decision Processes](https://www.youtube.com/watch?v=SWYceQpEVKM)
 
 # Other Git Repositories
 
