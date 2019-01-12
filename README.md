@@ -179,7 +179,7 @@ This paper is too theoretical for me.
 ## Day 14 : December 24 2018
 - [x] [CS885 Lecture 1b: Markov Processes](https://www.youtube.com/watch?v=yOWBb0mqENw)
 - [x] [CS885 Lecture 2a: Markov Decision Processes](https://www.youtube.com/watch?v=SWYceQpEVKM)
-- [] [CS885 Lecture 4b: Deep Q-Networks](https://www.youtube.com/watch?v=KPmR0NZgK1I)
+- [ ][CS885 Lecture 4b: Deep Q-Networks](https://www.youtube.com/watch?v=KPmR0NZgK1I)
 
 
 ## Day 15 : December 25 2018
@@ -194,16 +194,24 @@ This paper is too theoretical for me.
 - [x][5.3: Doodle Classifier: Prepping Data in p5.js - Intelligence and Learning](https://www.youtube.com/watch?v=wMe6qcpD8jI&index=3&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
 - [x][Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8)
 
-- [][Training a Deep Q-Network with Fixed Q-targets - Reinforcement Learning](https://www.youtube.com/watch?v=xVkPh9E9GfE)
+- [ ][Training a Deep Q-Network with Fixed Q-targets - Reinforcement Learning](https://www.youtube.com/watch?v=xVkPh9E9GfE)
 - [x][IBM Watson Discovery](https://www.youtube.com/watch?v=2jbMoGrFOuE&feature=youtu.be)
-- [][Coding Challenge #128: Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)
+- [ ][Coding Challenge #128: Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)
 
 
 ## 16 : January 01 2019
 - [x][1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
   Watched the video but need to actually download and run the paperspace instance.
+## 17 : January 08 2019
+- [x][12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
+  Watched this fast.ai video.
 
-
+### 18 : January 12 2019
+- [x][13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
+  Watched this video
+  
+- [ ](https://arxiv.org/pdf/1610.09585.pdf)
+- [Conditional Image Synthesis with Auxiliary Classifier GANs, NIPS 2016 | Augustus Odena, Google Brain](https://www.youtube.com/watch?v=myP2TN0_MaE)
 
 
 # *Links*
@@ -214,8 +222,11 @@ https://arxiv.org/list/cs.AI/recent
 
 https://arxiv.org/list/cs.LG/recent
 
-# Concepts to understand
+https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 
+# Concepts to understand
+- [ ] Probabilistic Programming
+- [ ] Cycle GAN
 - [ ] Trust Region Policy Optimization - John Schulman Berkeley
 - [ ] Q-Learning
 - [ ] Autoencoders
@@ -237,6 +248,7 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Model Zoo](https://modelzoo.co/) Implement some models
 
 *Need to read*
+- [ ] [Adding a cutting-edge deep learning training technique to the fast.ai library](https://medium.com/@hortonhearsafoo/adding-a-cutting-edge-deep-learning-training-technique-to-the-fast-ai-library-2cd1dba90a49)
 - [ ] [TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
 - [ ] Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
 - [ ] Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
@@ -258,11 +270,14 @@ https://arxiv.org/list/cs.LG/recent
 - [ ] [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
 - [ ] [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 - [ ] [Theory of dynamic programming](http://smo.sogang.ac.kr/doc/bellman.pdf)
+- [ ] [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://tcwang0509.github.io/pix2pixHD/)
 
 *Need to watch*
-- [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
-  - [x] [1 Intro to MDPs and Exact Solution Methods -- Pieter Abbeel](https://www.youtube.com/watch?v=qaMdN6LS9rA)
-  - [x] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
+- [ ] [https://www.youtube.com/watch?v=-I58WB0PBgw](https://www.youtube.com/watch?v=-I58WB0PBgw)
+- [ ][https://www.youtube.com/watch?v=PRY2NbOXbHk](https://www.youtube.com/watch?v=PRY2NbOXbHk)
+- [ ] [Tutorial: Probabilistic Programming](https://www.youtube.com/watch?v=9SEIYh5BCjc)
+- [ ] [Introduction to Probabilistic Programming](https://www.youtube.com/watch?v=7BjqGEl6mRs)
+- [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0) - In Progress
 - [ ] [Easier data analysis in Python with pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
 - [ ] [Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
 - [ ] [Intro to Graph Convolutional Networks](https://www.youtube.com/watch?v=UAwrDY_Bcdc)
@@ -278,6 +293,73 @@ https://arxiv.org/list/cs.LG/recent
 - [ ][Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ][Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 - [ ][Neural networks deep learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [ ][School.ai - Move 37](https://www.theschool.ai/courses/move-37-course/)
+- [ ][Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
+- [ ][Fast AI Mooc](https://course.fast.ai/)  - In Progress
+  - [x][1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
+  - [x][12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
+  - [ ][13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
+
+  ## Deep RL Bootcamp
+  - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
+    - [x] [1 Intro to MDPs and Exact Solution Methods -- Pieter Abbeel](https://www.youtube.com/watch?v=qaMdN6LS9rA)
+    - [x] [Deep RL Bootcamp Lecture 4B Policy Gradients Revisited](https://www.youtube.com/watch?v=tqrcjHuNdmQ)
+
+  ## Bloomberg
+  - [x] [1. Black Box Machine Learning](https://www.youtube.com/watch?v=MsD28INtSv8)
+  - [x] [2. Case Study: Churn Prediction](https://www.youtube.com/watch?v=kE_t3Mm8Z50)
+  - [x] [3. Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0)
+  - [ ] [4. Stochastic Gradient Descent](https://www.youtube.com/watch?v=5TZww5bTROE)
+  - [ ] [5. Excess Risk Decomposition](https://www.youtube.com/watch?v=YA_CE9jat4I)
+  - [ ] [6. L1 & L2 Regularization](https://www.youtube.com/watch?v=d6XDOS4btck)
+  - [ ] [7. Lasso, Ridge, and Elastic Net](https://www.youtube.com/watch?v=KIoz_aa1ed4)
+  - [ ] [8. Loss Functions for Regression and Classification](https://www.youtube.com/watch?v=1oi_Mwozj5w)
+  - [ ] [9. Lagrangian Duality and Convex Optimization](https://www.youtube.com/watch?v=thuYiebq1cE)
+  - [ ] [10. Support Vector Machines](https://www.youtube.com/watch?v=9zi6-RjlYrU)
+  - [ ] [11. Subgradient Descent](https://www.youtube.com/watch?v=jYtCiV1aP44)
+  - [ ] [12. Feature Extraction](https://www.youtube.com/watch?v=gmli6EyiNRw)
+  - [ ] [13. Kernel Methods](https://www.youtube.com/watch?v=m1otj-SdwYw)
+  - [ ] [14. Performance Evaluation](https://www.youtube.com/watch?v=xMyAL0C6cPY)
+  - [ ] [15. "City Sense": Probabilistic Modeling for Unusual Behavior Detection](https://www.youtube.com/watch?v=6nolrvzXiE4)
+  - [ ] [16. Maximum Likelihood Estimation](https://www.youtube.com/watch?v=ec_5vvxW7fE)
+  - [ ] [17. Conditional Probability Models](https://www.youtube.com/watch?v=JrFj0xpGd2Q)
+  - [ ] [18. Bayesian Methods](https://www.youtube.com/watch?v=VCfrGjDPC6k)
+  - [ ] [19. Bayesian Conditional Probability Models](https://www.youtube.com/watch?v=Mo4p2B37LwY)
+  - [ ] [20. Classification and Regression Trees](https://www.youtube.com/watch?v=GZuweldJWrM)
+  - [ ] [21. Basic Statistics and a Bit of Bootstrap](https://www.youtube.com/watch?v=lr5WH-JVT5I)
+  - [ ] [22. Bagging and Random Forest](https://www.youtube.com/watch?v=f2S4hVs-ESw)
+  - [ ] [23. Gradient Boosting](hhttps://www.youtube.com/watch?v=fz1H03ZKvLM)
+  - [ ] [24. Multiclass and Introduction to Structured Prediction](https://www.youtube.com/watch?v=WMQwtoMUjDA)
+  - [ ] [25. k-Means Clustering](https://www.youtube.com/watch?v=J0A_tkIgutw)
+  - [ ] [26. Gaussian Mixture Models](https://www.youtube.com/watch?v=I9dfOMAhsug)
+  - [ ] [27. EM Algorithm for Latent Variable Models](https://www.youtube.com/watch?v=lMShR1vjbUo)
+  - [ ] [28. Neural Networks](https://www.youtube.com/watch?v=Wr11D5sObzc)
+  - [ ] [29. Backpropagation and the Chain Rule](https://www.youtube.com/watch?v=XIpyEvLv93A)
+  - [ ] [30. Next Steps](https://www.youtube.com/watch?v=RMmAVrhAfWs)
+
+
+  Reinforcement Learning
+   - [x] [CS885 Lecture 1a: Course Introduction](https://www.youtube.com/watch?v=xoxz-OmcL1Q)
+   - [x] [CS885 Lecture 1b: Markov Processes](https://www.youtube.com/watch?v=yOWBb0mqENw)
+   - [x] [CS885 Lecture 2a: Markov Decision Processes](https://www.youtube.com/watch?v=SWYceQpEVKM)
+
+# Areas to master
+
+## GANS
+
+[The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+
+[All About The Gan](https://hollobit.github.io/All-About-the-GAN/)
+
+[GANsPaperCollection](https://github.com/shawnyuen/GANsPaperCollection)
+[Really Awesome Gan](https://github.com/nightrome/really-awesome-gan)
+[Keras implementations of Generative Adversarial Networks.](https://github.com/eriklindernoren/Keras-GAN)
+
+
+# Frameworks
+
+## Pyro (http://pyro.ai/)
+
 
 # Authors to follow
 
@@ -303,47 +385,16 @@ https://arxiv.org/list/cs.LG/recent
 
 - [ ] [Quantum Machine Learning LIVE](https://www.youtube.com/watch?time_continue=553&v=AAO4oq2M_48)
 
-Bloomberg
-- [x] [1. Black Box Machine Learning](https://www.youtube.com/watch?v=MsD28INtSv8)
-- [x] [2. Case Study: Churn Prediction](https://www.youtube.com/watch?v=kE_t3Mm8Z50)
-- [x] [3. Introduction to Statistical Learning Theory](https://www.youtube.com/watch?v=rqJ8SrnmWu0)
-- [ ] [4. Stochastic Gradient Descent](https://www.youtube.com/watch?v=5TZww5bTROE)
-- [ ] [5. Excess Risk Decomposition](https://www.youtube.com/watch?v=YA_CE9jat4I)
-- [ ] [6. L1 & L2 Regularization](https://www.youtube.com/watch?v=d6XDOS4btck)
-- [ ] [7. Lasso, Ridge, and Elastic Net](https://www.youtube.com/watch?v=KIoz_aa1ed4)
-- [ ] [8. Loss Functions for Regression and Classification](https://www.youtube.com/watch?v=1oi_Mwozj5w)
-- [ ] [9. Lagrangian Duality and Convex Optimization](https://www.youtube.com/watch?v=thuYiebq1cE)
-- [ ] [10. Support Vector Machines](https://www.youtube.com/watch?v=9zi6-RjlYrU)
-- [ ] [11. Subgradient Descent](https://www.youtube.com/watch?v=jYtCiV1aP44)
-- [ ] [12. Feature Extraction](https://www.youtube.com/watch?v=gmli6EyiNRw)
-- [ ] [13. Kernel Methods](https://www.youtube.com/watch?v=m1otj-SdwYw)
-- [ ] [14. Performance Evaluation](https://www.youtube.com/watch?v=xMyAL0C6cPY)
-- [ ] [15. "City Sense": Probabilistic Modeling for Unusual Behavior Detection](https://www.youtube.com/watch?v=6nolrvzXiE4)
-- [ ] [16. Maximum Likelihood Estimation](https://www.youtube.com/watch?v=ec_5vvxW7fE)
-- [ ] [17. Conditional Probability Models](https://www.youtube.com/watch?v=JrFj0xpGd2Q)
-- [ ] [18. Bayesian Methods](https://www.youtube.com/watch?v=VCfrGjDPC6k)
-- [ ] [19. Bayesian Conditional Probability Models](https://www.youtube.com/watch?v=Mo4p2B37LwY)
-- [ ] [20. Classification and Regression Trees](https://www.youtube.com/watch?v=GZuweldJWrM)
-- [ ] [21. Basic Statistics and a Bit of Bootstrap](https://www.youtube.com/watch?v=lr5WH-JVT5I)
-- [ ] [22. Bagging and Random Forest](https://www.youtube.com/watch?v=f2S4hVs-ESw)
-- [ ] [23. Gradient Boosting](hhttps://www.youtube.com/watch?v=fz1H03ZKvLM)
-- [ ] [24. Multiclass and Introduction to Structured Prediction](https://www.youtube.com/watch?v=WMQwtoMUjDA)
-- [ ] [25. k-Means Clustering](https://www.youtube.com/watch?v=J0A_tkIgutw)
-- [ ] [26. Gaussian Mixture Models](https://www.youtube.com/watch?v=I9dfOMAhsug)
-- [ ] [27. EM Algorithm for Latent Variable Models](https://www.youtube.com/watch?v=lMShR1vjbUo)
-- [ ] [28. Neural Networks](https://www.youtube.com/watch?v=Wr11D5sObzc)
-- [ ] [29. Backpropagation and the Chain Rule](https://www.youtube.com/watch?v=XIpyEvLv93A)
-- [ ] [30. Next Steps](https://www.youtube.com/watch?v=RMmAVrhAfWs)
+# Youtube Channels
 
-
-Reinforcement Learning
- - [x] [CS885 Lecture 1a: Course Introduction](https://www.youtube.com/watch?v=xoxz-OmcL1Q)
- - [x] [CS885 Lecture 1b: Markov Processes](https://www.youtube.com/watch?v=yOWBb0mqENw)
- - [x] [CS885 Lecture 2a: Markov Decision Processes](https://www.youtube.com/watch?v=SWYceQpEVKM)
+- [ ] [ComputerVisionFoundation Videos](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
+- [ ][Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
 
 # Other Git Repositories
 
 [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+
+[gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
 
 [Machine Learning Notebooks](https://github.com/ageron/handson-ml)
 
@@ -358,3 +409,7 @@ Reinforcement Learning
 [Papers on deep learning for video analysis](https://github.com/HuaizhengZhang/Papers-on-deep-learning-for-video-analysis)
 
 [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
+
+# Other 100 Days of AI
+
+[george-studenko](https://github.com/george-studenko/100_Days_of_ML_Code)
