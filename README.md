@@ -148,68 +148,68 @@ Spent a fair amount of time working through the examples in this tutorial, train
 ## Day 11 : November 10 2018
 - [x] [A Distributed Deep Search Engine](https://cs.nyu.edu/courses/spring17/CSCI-GA.3033-006/final_projects/distributed_deep_image_search_engine.pdf?fbclid=IwAR3uZfypQ7EGn7mRCk1ZYDO7nzR3fryMy4rtSIvf_4qWgzlO1cWWjQmDipA)
 What seems to be a straight forward approach, unfortunately not producing very good results.
-- [x][TOWARDS PRINCIPLED METHODS FOR TRAINING GENERATIVE ADVERSARIAL NETWORKS](https://openreview.net/pdf?id=Hk4_qw5xe)
+- [x] [TOWARDS PRINCIPLED METHODS FOR TRAINING GENERATIVE ADVERSARIAL NETWORKS](https://openreview.net/pdf?id=Hk4_qw5xe)
 This paper is too theoretical for me.  
-- [ ][Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
-- [x][The Next Leap: How A.I. will change the 3D industry](https://www.youtube.com/watch?v=FlgLxSLsYWQ&feature=youtu.be)
-- [x][The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
-- [ ][Learning to Localize Sound Source in Visual Scenes](https://arxiv.org/pdf/1803.03849.pdf)
+- [ ] [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
+- [x] [The Next Leap: How A.I. will change the 3D industry](https://www.youtube.com/watch?v=FlgLxSLsYWQ&feature=youtu.be)
+- [x] [The Sound of Pixels](http://sound-of-pixels.csail.mit.edu/)
+- [ ] [Learning to Localize Sound Source in Visual Scenes](https://arxiv.org/pdf/1803.03849.pdf)
 
 ## Day 12 : November 17 2018
-- [x][Machine Learning Agents In Unity](https://www.youtube.com/playlist?list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX)
-- [x][Unity at GDC - Unity Machine Learning: ML-Agents 0.3](https://www.youtube.com/watch?v=YsEDv13W1RI)
+- [x] [Machine Learning Agents In Unity](https://www.youtube.com/playlist?list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX)
+- [x] [Unity at GDC - Unity Machine Learning: ML-Agents 0.3](https://www.youtube.com/watch?v=YsEDv13W1RI)
   Implemented ML agents in unity.
-- [x][Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://www.youtube.com/watch?v=5P7I-xPq8u8)
+- [x] [Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://www.youtube.com/watch?v=5P7I-xPq8u8)
 
 ## Day 13 : November 30 2018
-- [x][Deep Dive into Concepts and Tools for Analyzing Streaming Data on AWS](https://www.aws.training/learningobject/video?id=27504)
+- [x] [Deep Dive into Concepts and Tools for Analyzing Streaming Data on AWS](https://www.aws.training/learningobject/video?id=27504)
 
 ## Day 14 : December 13 2018
-- [x][Geometric Deep Learning](https://www.youtube.com/watch?v=D3fnGG7cdjY)
+- [x] [Geometric Deep Learning](https://www.youtube.com/watch?v=D3fnGG7cdjY)
 - [][Seeing Clearly: Computer Vision Theory](https://www.aws.training/transcript/curriculumplayer?transcriptId=NkfCyQuvW0S7HbTbTy9htg2)
   Introduction to AWS DeepLens
-- [x][Deep Dive into Concepts and Tools for Analyzing Streaming Data on AWS]
-- [x][Hands-on Rekognition: Automated Video Editing]
-- [x][Semantic Segmentation Explained]
-- [x][Introduction to AWS DeepLens]
-- [x][Introduction to Amazon Rekognition]
-- [x][LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://arxiv.org/pdf/1809.11096.pdf)
-- [x][Lipschitz condition](https://www.youtube.com/watch?v=Cnc83B3C2pY)
+- [x] [Deep Dive into Concepts and Tools for Analyzing Streaming Data on AWS]
+- [x] [Hands-on Rekognition: Automated Video Editing]
+- [x] [Semantic Segmentation Explained]
+- [x] [Introduction to AWS DeepLens]
+- [x] [Introduction to Amazon Rekognition]
+- [x] [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://arxiv.org/pdf/1809.11096.pdf)
+- [x] [Lipschitz condition](https://www.youtube.com/watch?v=Cnc83B3C2pY)
 
 ## Day 14 : December 24 2018
 - [x] [CS885 Lecture 1b: Markov Processes](https://www.youtube.com/watch?v=yOWBb0mqENw)
 - [x] [CS885 Lecture 2a: Markov Decision Processes](https://www.youtube.com/watch?v=SWYceQpEVKM)
-- [ ][CS885 Lecture 4b: Deep Q-Networks](https://www.youtube.com/watch?v=KPmR0NZgK1I)
+- [ ] [CS885 Lecture 4b: Deep Q-Networks](https://www.youtube.com/watch?v=KPmR0NZgK1I)
 
 
 ## Day 15 : December 25 2018
-- [x][Binary Classification](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Z8j0R/binary-classification)
-- [x][Logistic Regression](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/LoKih/logistic-regression)
-- [x][3.2: Linear Regression with Ordinary Least Squares Part 1 - Intelligence and Learning](https://www.youtube.com/watch?v=szXbuO3bVRk&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj&index=5)
-- [x][Introduction to Spell (for Machine Learning in the Cloud)](https://www.youtube.com/watch?v=ggBOAPtFjYU&list=PLRqwX-V7Uu6Y6kSfxOjq5zk4gkDK8q_n1)
-- [x][10.1: Introduction to Neural Networks - The Nature of Code](https://www.youtube.com/watch?v=XJ7HLz9VYz0&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
-- [][10.3: Neural Networks: Perceptron Part 2 - The Nature of Code](https://www.youtube.com/watch?v=DGxIcDjPzac&index=3&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
-- [x][5.1: Doodle Classifier: Introduction - Intelligence and Learning](https://www.youtube.com/watch?v=pqY_Tn2SIVA&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQs)
-- [x][5.2: Doodle Classifier: Prepping Data in Processing - Intelligence and Learning](https://www.youtube.com/watch?v=gX7U6WA7Ffk&index=2&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
-- [x][5.3: Doodle Classifier: Prepping Data in p5.js - Intelligence and Learning](https://www.youtube.com/watch?v=wMe6qcpD8jI&index=3&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
-- [x][Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8)
+- [x] [Binary Classification](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/Z8j0R/binary-classification)
+- [x] [Logistic Regression](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/LoKih/logistic-regression)
+- [x] [3.2: Linear Regression with Ordinary Least Squares Part 1 - Intelligence and Learning](https://www.youtube.com/watch?v=szXbuO3bVRk&list=PLRqwX-V7Uu6bCN8LKrcMa6zF4FPtXyXYj&index=5)
+- [x] [Introduction to Spell (for Machine Learning in the Cloud)](https://www.youtube.com/watch?v=ggBOAPtFjYU&list=PLRqwX-V7Uu6Y6kSfxOjq5zk4gkDK8q_n1)
+- [x] [10.1: Introduction to Neural Networks - The Nature of Code](https://www.youtube.com/watch?v=XJ7HLz9VYz0&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+- [ ] [10.3: Neural Networks: Perceptron Part 2 - The Nature of Code](https://www.youtube.com/watch?v=DGxIcDjPzac&index=3&list=PLRqwX-V7Uu6Y7MdSCaIfsxc561QI0U0Tb)
+- [x] [5.1: Doodle Classifier: Introduction - Intelligence and Learning](https://www.youtube.com/watch?v=pqY_Tn2SIVA&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQs)
+- [x] [5.2: Doodle Classifier: Prepping Data in Processing - Intelligence and Learning](https://www.youtube.com/watch?v=gX7U6WA7Ffk&index=2&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
+- [x] [5.3: Doodle Classifier: Prepping Data in p5.js - Intelligence and Learning](https://www.youtube.com/watch?v=wMe6qcpD8jI&index=3&list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ)
+- [x] [Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8)
 
-- [ ][Training a Deep Q-Network with Fixed Q-targets - Reinforcement Learning](https://www.youtube.com/watch?v=xVkPh9E9GfE)
-- [x][IBM Watson Discovery](https://www.youtube.com/watch?v=2jbMoGrFOuE&feature=youtu.be)
-- [ ][Coding Challenge #128: Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)
+- [ ] [Training a Deep Q-Network with Fixed Q-targets - Reinforcement Learning](https://www.youtube.com/watch?v=xVkPh9E9GfE)
+- [x] [IBM Watson Discovery](https://www.youtube.com/watch?v=2jbMoGrFOuE&feature=youtu.be)
+- [ ] [Coding Challenge #128: Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)
 
 
 ## 16 : January 01 2019
-- [x][1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
+- [x] [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
   Watched the video but need to actually download and run the paperspace instance.
 ## 17 : January 08 2019
-- [x][12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
+- [x] [12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
   Watched this fast.ai video.
 
 ### 18 : January 12 2019
-- [x][13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
+- [x] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
   Watched this video
-  
+
 - [ ](https://arxiv.org/pdf/1610.09585.pdf)
 - [Conditional Image Synthesis with Auxiliary Classifier GANs, NIPS 2016 | Augustus Odena, Google Brain](https://www.youtube.com/watch?v=myP2TN0_MaE)
 
@@ -274,7 +274,7 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 
 *Need to watch*
 - [ ] [https://www.youtube.com/watch?v=-I58WB0PBgw](https://www.youtube.com/watch?v=-I58WB0PBgw)
-- [ ][https://www.youtube.com/watch?v=PRY2NbOXbHk](https://www.youtube.com/watch?v=PRY2NbOXbHk)
+- [ ] [https://www.youtube.com/watch?v=PRY2NbOXbHk](https://www.youtube.com/watch?v=PRY2NbOXbHk)
 - [ ] [Tutorial: Probabilistic Programming](https://www.youtube.com/watch?v=9SEIYh5BCjc)
 - [ ] [Introduction to Probabilistic Programming](https://www.youtube.com/watch?v=7BjqGEl6mRs)
 - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0) - In Progress
@@ -289,16 +289,16 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 
 
 # Courses to do
-- [ ][INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
-- [ ][Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-- [ ][Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
-- [ ][Neural networks deep learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [ ][School.ai - Move 37](https://www.theschool.ai/courses/move-37-course/)
-- [ ][Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
-- [ ][Fast AI Mooc](https://course.fast.ai/)  - In Progress
-  - [x][1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
-  - [x][12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
-  - [ ][13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
+- [ ] [INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
+- [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+- [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [ ] [Neural networks deep learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [ ] [School.ai - Move 37](https://www.theschool.ai/courses/move-37-course/)
+- [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
+- [ ] [Fast AI Mooc](https://course.fast.ai/)  - In Progress
+  - [x] [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
+  - [x] [12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
+  - [ ] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
 
   ## Deep RL Bootcamp
   - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
@@ -378,7 +378,7 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 - [ ] [Deep Learning in the Browser with TensorFlow.js Tutorial Introduction - TensorFlow.js Tutorial p.1](https://pythonprogramming.net/deep-learning-browser-introduction-tensorflowjs/)
 - [x] [Balancing Recurrent Neural Network sequence data for our crypto predicting RNN - Deep Learning basics with Python, TensorFlow and Keras p.10](https://pythonprogramming.net/balancing-rnn-data-deep-learning-python-tensorflow-keras/)
 - [x] [Cryptocurrency-predicting RNN Model - Deep Learning basics with Python, TensorFlow and Keras p.11](https://pythonprogramming.net/crypto-rnn-model-deep-learning-python-tensorflow-keras/)
-- [x][Why is deep learning taking off](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/praGm/why-is-deep-learning-taking-off)
+- [x] [Why is deep learning taking off](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/praGm/why-is-deep-learning-taking-off)
 - [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
 
 # Videos To Watch
@@ -388,7 +388,7 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 # Youtube Channels
 
 - [ ] [ComputerVisionFoundation Videos](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
-- [ ][Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
+- [ ] [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
 
 # Other Git Repositories
 
