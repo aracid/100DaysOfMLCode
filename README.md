@@ -166,7 +166,7 @@ This paper is too theoretical for me.
 
 ## Day 14 : December 13 2018
 - [x] [Geometric Deep Learning](https://www.youtube.com/watch?v=D3fnGG7cdjY)
-- [][Seeing Clearly: Computer Vision Theory](https://www.aws.training/transcript/curriculumplayer?transcriptId=NkfCyQuvW0S7HbTbTy9htg2)
+- [x] [Seeing Clearly: Computer Vision Theory](https://www.aws.training/transcript/curriculumplayer?transcriptId=NkfCyQuvW0S7HbTbTy9htg2)
   Introduction to AWS DeepLens
 - [x] [Deep Dive into Concepts and Tools for Analyzing Streaming Data on AWS]
 - [x] [Hands-on Rekognition: Automated Video Editing]
@@ -213,6 +213,10 @@ This paper is too theoretical for me.
 - [ ](https://arxiv.org/pdf/1610.09585.pdf)
 - [Conditional Image Synthesis with Auxiliary Classifier GANs, NIPS 2016 | Augustus Odena, Google Brain](https://www.youtube.com/watch?v=myP2TN0_MaE)
 
+### 19 : January 14 2019
+- [x] [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
+  New concepts learned : Learned about Test Time augmentation, or just TTA and differential learning rate annealing.
+  Testing classification on flowers, seemed to work, works with 2 kinds of flowers.
 
 # *Links*
 
@@ -297,6 +301,7 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 - [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] [Fast AI Mooc](https://course.fast.ai/)  - In Progress
   - [x] [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
+  - [x] [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
   - [x] [12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
   - [ ] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
 
@@ -413,3 +418,9 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 # Other 100 Days of AI
 
 [george-studenko](https://github.com/george-studenko/100_Days_of_ML_Code)
+
+
+# Notes
+
+## Fast AI install
+  https://forums.fast.ai/t/howto-installation-on-windows/10439?source_topic_id=10663
