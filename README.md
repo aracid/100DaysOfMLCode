@@ -218,6 +218,14 @@ This paper is too theoretical for me.
   New concepts learned : Learned about Test Time augmentation, or just TTA and differential learning rate annealing.
   Testing classification on flowers, seemed to work, works with 2 kinds of flowers.
 
+### 20 : January 15 2019
+Tested the ESRGAN (Enhanced SRGAN) (https://github.com/xinntao/ESRGAN) on some footage and found that facial information becomes unusual, I need to see if there's a way to weight in some of the Original image.
+- [x] [3—IMPROVING YOUR IMAGE CLASSIFIER](https://course.fast.ai/lessons/lesson3.html)
+
+### 21 : January 30 2019
+- [x] [13—13—IMAGE ENHANCEMENT](http://course18.fast.ai/lessons/lesson13.html)
+
+
 # *Links*
 
 Daily Reading Material
