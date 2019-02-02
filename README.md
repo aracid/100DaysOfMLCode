@@ -202,28 +202,41 @@ This paper is too theoretical for me.
 ## 16 : January 01 2019
 - [x] [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
   Watched the video but need to actually download and run the paperspace instance.
+
 ## 17 : January 08 2019
+### part 2 of the Fast.ai course
 - [x] [12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
   Watched this fast.ai video.
 
-### 18 : January 12 2019
+## 18 : January 12 2019
+### part 2 of the Fast.ai course
 - [x] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
   Watched this video
 
 - [ ](https://arxiv.org/pdf/1610.09585.pdf)
 - [Conditional Image Synthesis with Auxiliary Classifier GANs, NIPS 2016 | Augustus Odena, Google Brain](https://www.youtube.com/watch?v=myP2TN0_MaE)
 
-### 19 : January 14 2019
+## 19 : January 14 2019
+### part 1 of the Fast.ai course
 - [x] [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
   New concepts learned : Learned about Test Time augmentation, or just TTA and differential learning rate annealing.
   Testing classification on flowers, seemed to work, works with 2 kinds of flowers.
 
-### 20 : January 15 2019
+## 20 : January 15 2019
 Tested the ESRGAN (Enhanced SRGAN) (https://github.com/xinntao/ESRGAN) on some footage and found that facial information becomes unusual, I need to see if there's a way to weight in some of the Original image.
 - [x] [3—IMPROVING YOUR IMAGE CLASSIFIER](https://course.fast.ai/lessons/lesson3.html)
 
-### 21 : January 30 2019
-- [x] [13—13—IMAGE ENHANCEMENT](http://course18.fast.ai/lessons/lesson13.html)
+## 21 : January 30 2019
+### part 2 of the Fast.ai course
+- [x] [13—IMAGE ENHANCEMENT](http://course18.fast.ai/lessons/lesson13.html)
+
+## 22 : February 01 2019
+- [x] [Sentiment Analysis - Data Lit #1](https://www.youtube.com/watch?v=3Pzni2yfGUQ)
+
+
+## 23 : February 02 2019
+### part 3 of the Fast.ai course
+- [x] [Lesson 3: Data blocks; Multi-label classification; Segmentation](https://course.fast.ai/videos/?lesson=3)
 
 
 # *Links*
@@ -310,8 +323,9 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 - [ ] [Fast AI Mooc](https://course.fast.ai/)  - In Progress
   - [x] [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
   - [x] [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
+  - [x] [3—IMPROVING YOUR IMAGE CLASSIFIER](https://course.fast.ai/lessons/lesson3.html)
   - [x] [12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
-  - [ ] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
+  - [x] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
 
   ## Deep RL Bootcamp
   - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
