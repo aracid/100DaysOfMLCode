@@ -199,16 +199,16 @@ This paper is too theoretical for me.
 - [ ] [Coding Challenge #128: Sketch-RNN Snowflakes with ml5.js](https://www.youtube.com/watch?v=pdaNttb7Mr8)
 
 
-## 16 : January 01 2019
+## Day 16 : January 01 2019
 - [x] [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
   Watched the video but need to actually download and run the paperspace instance.
 
-## 17 : January 08 2019
+## Day 17 : January 08 2019
 ### part 2 of the Fast.ai course
 - [x] [12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
   Watched this fast.ai video.
 
-## 18 : January 12 2019
+## Day 18 : January 12 2019
 ### part 2 of the Fast.ai course
 - [x] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
   Watched this video
@@ -216,27 +216,29 @@ This paper is too theoretical for me.
 - [ ](https://arxiv.org/pdf/1610.09585.pdf)
 - [Conditional Image Synthesis with Auxiliary Classifier GANs, NIPS 2016 | Augustus Odena, Google Brain](https://www.youtube.com/watch?v=myP2TN0_MaE)
 
-## 19 : January 14 2019
+## Day 19 : January 14 2019
 ### part 1 of the Fast.ai course
 - [x] [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
   New concepts learned : Learned about Test Time augmentation, or just TTA and differential learning rate annealing.
   Testing classification on flowers, seemed to work, works with 2 kinds of flowers.
 
-## 20 : January 15 2019
+## Day 20 : January 15 2019
 Tested the ESRGAN (Enhanced SRGAN) (https://github.com/xinntao/ESRGAN) on some footage and found that facial information becomes unusual, I need to see if there's a way to weight in some of the Original image.
 - [x] [3—IMPROVING YOUR IMAGE CLASSIFIER](https://course.fast.ai/lessons/lesson3.html)
 
-## 21 : January 30 2019
+## Day 21 : January 30 2019
 ### part 2 of the Fast.ai course
 - [x] [13—IMAGE ENHANCEMENT](http://course18.fast.ai/lessons/lesson13.html)
 
-## 22 : February 01 2019
+## Day 22 : February 01 2019
 - [x] [Sentiment Analysis - Data Lit #1](https://www.youtube.com/watch?v=3Pzni2yfGUQ)
 
 
-## 23 : February 02 2019
+## Day 23 : February 02 2019
 ### part 3 of the Fast.ai course
 - [x] [Lesson 3: Data blocks; Multi-label classification; Segmentation](https://course.fast.ai/videos/?lesson=3)
+- [x] [Densely Connected Convolutional Networks](https://www.youtube.com/watch?v=-W6y8xnd--U)
+- [x] [4—STRUCTURED, TIME SERIES, & LANGUAGE MODELS](http://course18.fast.ai/lessons/lesson4.html)
 
 
 # *Links*
@@ -390,6 +392,8 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 
 # Authors to follow
 
+- [Hiromi Suenaga](https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197)
+
 # Vloggers to follow
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 
@@ -418,6 +422,8 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 - [ ] [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
 
 # Other Git Repositories
+
+[Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 
 [Awesome-TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 
