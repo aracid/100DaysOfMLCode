@@ -240,6 +240,16 @@ Tested the ESRGAN (Enhanced SRGAN) (https://github.com/xinntao/ESRGAN) on some f
 - [x] [Densely Connected Convolutional Networks](https://www.youtube.com/watch?v=-W6y8xnd--U)
 - [x] [4—STRUCTURED, TIME SERIES, & LANGUAGE MODELS](http://course18.fast.ai/lessons/lesson4.html)
 
+## Day 24 : February 10 2019
+- [x] [Kaggle Challenge: Earthquake Prediction (LIVE)](https://www.youtube.com/watch?v=q50QwYjtziA&feature=em-lbcastemail)
+- [x] [Neural Differential Equations](https://www.youtube.com/watch?v=AD3K8j12EIE)
+
+- [x] [Neural Networks Motivated by Partial Differential Equations](http://www.birs.ca/events/2018/5-day-workshops/18w5172/videos/watch/201804231331-Haber.html)
+- [x] [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://www.youtube.com/watch?v=EfJLJYXoK90)
+- [x] [AIHelsinki 15.2.2018: Tero Karras, NVIDIA](https://www.youtube.com/watch?v=ReZiqCybQPA)
+
+
+https://blog.openai.com/evolution-strategies/
 
 # *Links*
 
@@ -254,6 +264,7 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 # Concepts to understand
 - [ ] Probabilistic Programming
 - [ ] Cycle GAN
+- [ ] Embedding Matrix
 - [ ] Trust Region Policy Optimization - John Schulman Berkeley
 - [ ] Q-Learning
 - [ ] Autoencoders
@@ -312,10 +323,11 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 - [ ] [Visualizing and Understanding Convolutional Neural Networks](https://arxiv.org/pdf/1311.2901v1.pdf)
 - [ ] [Lecture 1 | Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-- [][Explainable Artificial Intelligence (XAI): Why, When, and How? by Mridul Mishra at #ODSC_India](https://www.youtube.com/watch?v=ImFy0ssfqIg)
-
+- [ ] [Explainable Artificial Intelligence (XAI): Why, When, and How? by Mridul Mishra at #ODSC_India](https://www.youtube.com/watch?v=ImFy0ssfqIg)
+- [ ] [Numerical Analysis and Approximation Theory meets Data Science](http://www.birs.ca/events/2018/5-day-workshops/18w5172/videos)
 
 # Courses to do
+
 - [ ] [INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
@@ -326,8 +338,12 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
   - [x] [1—RECOGNIZING CATS AND DOGS](https://course.fast.ai/lessons/lesson1.html)
   - [x] [2—CONVOLUTIONAL NEURAL NETWORKS](https://course.fast.ai/lessons/lesson2.html)
   - [x] [3—IMPROVING YOUR IMAGE CLASSIFIER](https://course.fast.ai/lessons/lesson3.html)
+  - [x] [4—STRUCTURED, TIME SERIES, & LANGUAGE MODELS](http://course18.fast.ai/lessons/lesson4.html)
   - [x] [12— GENERATIVE ADVERSARIAL NETWORKS (GANS)](https://course.fast.ai/lessons/lesson12.html)
   - [x] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
+
+- [ ][Advanced Deep Learning & Reinforcement ](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 
   ## Deep RL Bootcamp
   - [ ] [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
@@ -442,6 +458,8 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 [Papers on deep learning for video analysis](https://github.com/HuaizhengZhang/Papers-on-deep-learning-for-video-analysis)
 
 [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
+
+[All about the Gan[(https://hollobit.github.io/All-About-the-GAN/)
 
 # Other 100 Days of AI
 
