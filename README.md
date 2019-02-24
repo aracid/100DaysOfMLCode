@@ -249,6 +249,8 @@ Tested the ESRGAN (Enhanced SRGAN) (https://github.com/xinntao/ESRGAN) on some f
 - [x] [AIHelsinki 15.2.2018: Tero Karras, NVIDIA](https://www.youtube.com/watch?v=ReZiqCybQPA)
 
 
+https://arxiv.org/pdf/1801.04406.pdf
+
 https://blog.openai.com/evolution-strategies/
 
 # *Links*
@@ -460,6 +462,8 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
 
 [All about the Gan[(https://hollobit.github.io/All-About-the-GAN/)
+
+[Reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 
 # Other 100 Days of AI
 
