@@ -239,6 +239,7 @@ Tested the ESRGAN (Enhanced SRGAN) (https://github.com/xinntao/ESRGAN) on some f
 - [x] [Lesson 3: Data blocks; Multi-label classification; Segmentation](https://course.fast.ai/videos/?lesson=3)
 - [x] [Densely Connected Convolutional Networks](https://www.youtube.com/watch?v=-W6y8xnd--U)
 - [x] [4—STRUCTURED, TIME SERIES, & LANGUAGE MODELS](http://course18.fast.ai/lessons/lesson4.html)
+- [x] [8—OBJECT DETECTION](http://course18.fast.ai/lessons/lesson8.html)
 
 ## Day 24 : February 10 2019
 - [x] [Kaggle Challenge: Earthquake Prediction (LIVE)](https://www.youtube.com/watch?v=q50QwYjtziA&feature=em-lbcastemail)
@@ -248,10 +249,69 @@ Tested the ESRGAN (Enhanced SRGAN) (https://github.com/xinntao/ESRGAN) on some f
 - [x] [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://www.youtube.com/watch?v=EfJLJYXoK90)
 - [x] [AIHelsinki 15.2.2018: Tero Karras, NVIDIA](https://www.youtube.com/watch?v=ReZiqCybQPA)
 
+## Day 25 : March 12 2019
+- [x] [5—COLLABORATIVE FILTERING; INSIDE THE TRAINING LOOP](http://course18.fast.ai/lessons/lesson5.html)
+- [x] [INTERSECT@CMU Keynote: Jerome Pesenti, VP of AI at Facebook, Inc.](https://youtu.be/41P8eaxT3F4?t=146)
+
+## Day 26 : March 26 2019
+- [x] [Lesson 7: Resnets from scratch; U-net; Generative (adversarial) networks](https://course.fast.ai/videos/?lesson=7)
 
 https://arxiv.org/pdf/1801.04406.pdf
 
 https://blog.openai.com/evolution-strategies/
+
+ ## Day 27 : April 10th 2019
+- [x] [Make Money with Tensorflow 2.0](https://www.youtube.com/watch?v=WS9Nckd2kq0)
+- [x] [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction and Logistics](https://www.youtube.com/watch?v=PySo_6S4ZAg)
+- [x] [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition](https://www.youtube.com/watch?time_continue=9&v=AwQHqWyHRpU&t)
+- [x] [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 3 - Full-Cycle Deep Learning Projects](https://www.youtube.com/watch?v=JUJNGv_sb4Y&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=3)
+
+  ## Day 28 : May 6th 2019
+- [x] [This Course: Convolutional Neural Networks - Week 2](https://www.coursera.org/learn/convolutional-neural-networks)
+
+  ## Day 29 : May 28th 2019 
+- [x] [Deep Learning 16: Image denoising (Fashion dataset) using Neural Network (Auto Encoders)](https://www.youtube.com/watch?v=LFqigdDW4Uk&t=4s)
+- [x] [Secure and Private AI](https://classroom.udacity.com/courses/ud185)
+  Watched the second course by Andrew Trask on Introducing Differential Privacy.
+- [x] [Lesson 3: Deep Learning 2019 - Data blocks; Multi-label classification; Segmentation](https://www.youtube.com/watch?v=MpZxV6DVsmM)
+- [x] [Self-Attention GAN](https://www.youtube.com/watch?v=OVeGatovZ7Y&fbclid=IwAR2mfYzXkUENfyoIuCWaBrqx7M5HOvAVjhcOkMLyp8Y71OiPLitu2Gou6-Q&t=1s)
+
+## Day 30 : June 4th 2019 
+Worked on PDG in houdini to explore how to build training sets.
+[https://www.sidefx.com/tutorials/pdg-for-design-work-pt-1-the-basics/?collection=59](PDG FOR DESIGN WORK PT. 1 - THE BASICS)
+Using this tutorial [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
+
+https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+https://www.youtube.com/watch?v=UTfQwTuri8Y
+https://www.youtube.com/watch?v=Un0JDL3i5Hg
+https://www.youtube.com/watch?v=tAOApRQAgpc
+https://www.youtube.com/watch?v=kPMpmcl_Pyw
+https://www.youtube.com/watch?v=6CwzDoE8J4M
+https://www.youtube.com/watch?v=VwVg9jCtqaU
+https://www.youtube.com/watch?v=89BGjQYA0uE
+https://www.youtube.com/watch?v=rP8CGyDbxBY
+https://www.youtube.com/watch?v=Jjm7MT6W0Dc
+https://www.youtube.com/watch?v=pECXKyaRfYM
+
+https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
+
+https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
+https://www.youtube.com/watch?v=QcyRYdTmlXg&feature=share
+
+
+
+
+
+
+
+
+https://github.com/tensorflow/graphics
+
+# Need to read
+https://blog.nanonets.com/human-pose-estimation-2d-guide/
+
+
+https://indabax.co.za/#ts-schedule
 
 # *Links*
 
@@ -330,6 +390,7 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 
 # Courses to do
 
+- [ ] [Deep Mind -Deep Learning : Introduction to Machine Learning Based AI](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [ ] [INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
@@ -433,11 +494,13 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 # Videos To Watch
 
 - [ ] [Quantum Machine Learning LIVE](https://www.youtube.com/watch?time_continue=553&v=AAO4oq2M_48)
+- [ ] [Generative Adversarial Networks (GANs)](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu&fbclid=IwAR38ouHPNiQlH8Rx4738QR-_DwZwJtDqpYiruMeB_Cz3KERRwegRTYDYFHA)
 
 # Youtube Channels
 
 - [ ] [ComputerVisionFoundation Videos](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 - [ ] [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
+
 
 # Other Git Repositories
 
@@ -464,6 +527,8 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 [All about the Gan[(https://hollobit.github.io/All-About-the-GAN/)
 
 [Reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+
+[fast-neural-style](https://github.com/pytorch/examples/tree/master/fast_neural_style)
 
 # Other 100 Days of AI
 
