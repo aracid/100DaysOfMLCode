@@ -281,6 +281,8 @@ Worked on PDG in houdini to explore how to build training sets.
 [https://www.sidefx.com/tutorials/pdg-for-design-work-pt-1-the-basics/?collection=59](PDG FOR DESIGN WORK PT. 1 - THE BASICS)
 Using this tutorial [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
 
+- [] [https://www.youtube.com/watch?v=9spwoDYwW_I](Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks)
+
 https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 https://www.youtube.com/watch?v=UTfQwTuri8Y
 https://www.youtube.com/watch?v=Un0JDL3i5Hg
