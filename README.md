@@ -282,6 +282,27 @@ Worked on PDG in houdini to explore how to build training sets.
 Using this tutorial [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
 
 - [] [https://www.youtube.com/watch?v=9spwoDYwW_I](Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks)
+- [] [https://www.kaggle.com/learn/intermediate-machine-learning](Kaggle - Intermediate Machine Learning)
+- [] [https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/](Keras Mask R-CNN)
+- [] [https://arxiv.org/pdf/1712.09913.pdf](Visualizing the Loss Landscape of Neural Nets)
+https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicationsofhessians.pdf
+
+## Day 31 : June 23rd 2019
+-[x] [https://www.youtube.com/watch?v=INja7C5_vqk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=6](MIT 6.S191: Deep Learning Limitations and New Frontier)
+-[x] [https://deeplizard.com/learn/video/mUueSPmcOBc](Went through some Deep Lizard tutorials on pytorch)
+-[x] [https://www.youtube.com/watch?v=H94ASpItkLI&list=PL_bDvITUYucD6jDTC02jwuYDqIzkRsSIM&index=4](3D Shape Segmentation With Projective Convolutional Networks)
+
+## Day 32 : 2nd July 2019
+- [x] [https://arxiv.org/pdf/1703.06870.pdf](Mask R-CNN)
+- [x] [https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93](An overview of deep-learning based object-detection algorithms.)
+- [x] [https://deepsense.ai/region-of-interest-pooling-explained/](Region of interest pooling explained)
+ The term "ablation study" is often used in the context of neural networks, especially relatiavely complex ones such as R-CNNs. 
+ The idea is to learn about the network by removing parts of it and studying it's performance. In the context of linear regression that you propose, 
+ ablation doesn't really make sense - it would turn into a kind of backwards stepwise variable selection procedure. – Robert Long
+- [x] [https://medium.com/@tanaykarmarkar/region-proposal-network-rpn-backbone-of-faster-r-cnn-4a744a38d7f9](Region Proposal Networks - backbone of faster R CNN)
+- [x] [https://medium.com/edureka/tensorflow-object-detection-tutorial-8d6942e73adc](Object Detection Tutorial in TensorFlow- Perform Real-Time Object Detection)
+- [x] [https://arxiv.org/pdf/1504.08083.pdf](Fast R-CNN)
+
 
 https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 https://www.youtube.com/watch?v=UTfQwTuri8Y
@@ -311,7 +332,7 @@ https://github.com/tensorflow/graphics
 
 # Need to read
 https://blog.nanonets.com/human-pose-estimation-2d-guide/
-
+https://stanford.edu/~shervine/blog/evolution-image-classification-explained
 
 https://indabax.co.za/#ts-schedule
 
@@ -497,14 +518,17 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 
 - [ ] [Quantum Machine Learning LIVE](https://www.youtube.com/watch?time_continue=553&v=AAO4oq2M_48)
 - [ ] [Generative Adversarial Networks (GANs)](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu&fbclid=IwAR38ouHPNiQlH8Rx4738QR-_DwZwJtDqpYiruMeB_Cz3KERRwegRTYDYFHA)
-
+- [ ] [https://www.itu.int/webcast/archive/t2019aiday2](AI for Good)
 # Youtube Channels
 
 - [ ] [ComputerVisionFoundation Videos](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 - [ ] [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
-
+- [ ] [https://www.ipam.ucla.edu/videos/](IPAM’s video archive)
+- [ ] [https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p](The Ancient Secrets of Computer Vision)
 
 # Other Git Repositories
+
+[https://github.com/ritchieng/the-incredible-pytorch](The Incredible Pytorch)
 
 [Advanced Deep Learning with Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 
@@ -541,3 +565,4 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 
 ## Fast AI install
   https://forums.fast.ai/t/howto-installation-on-windows/10439?source_topic_id=10663
+  https://cs230-stanford.github.io/pytorch-getting-started.html
