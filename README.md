@@ -281,40 +281,40 @@ Worked on PDG in houdini to explore how to build training sets.
 [https://www.sidefx.com/tutorials/pdg-for-design-work-pt-1-the-basics/?collection=59](PDG FOR DESIGN WORK PT. 1 - THE BASICS)
 Using this tutorial [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
 
-- [] [https://www.youtube.com/watch?v=9spwoDYwW_I](Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks)
-- [] [https://www.kaggle.com/learn/intermediate-machine-learning](Kaggle - Intermediate Machine Learning)
-- [] [https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/](Keras Mask R-CNN)
-- [] [https://arxiv.org/pdf/1712.09913.pdf](Visualizing the Loss Landscape of Neural Nets)
+- [ ] [Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks](https://www.youtube.com/watch?v=9spwoDYwW_I)
+- [ ] [Kaggle - Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [ ] [Keras Mask R-CNN](https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/)
+- [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
 https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicationsofhessians.pdf
 
 ## Day 31 : June 23rd 2019
--[x] [https://www.youtube.com/watch?v=INja7C5_vqk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=6](MIT 6.S191: Deep Learning Limitations and New Frontier)
--[x] [https://deeplizard.com/learn/video/mUueSPmcOBc](Went through some Deep Lizard tutorials on pytorch)
--[x] [https://www.youtube.com/watch?v=H94ASpItkLI&list=PL_bDvITUYucD6jDTC02jwuYDqIzkRsSIM&index=4](3D Shape Segmentation With Projective Convolutional Networks)
+-[x] [MIT 6.S191: Deep Learning Limitations and New Frontier](https://www.youtube.com/watch?v=INja7C5_vqk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=6)
+-[x] [Went through some Deep Lizard tutorials on pytorch](https://deeplizard.com/learn/video/mUueSPmcOBc)
+-[x] [3D Shape Segmentation With Projective Convolutional Networks](https://www.youtube.com/watch?v=H94ASpItkLI&list=PL_bDvITUYucD6jDTC02jwuYDqIzkRsSIM&index=4)
 
 ## Day 32 : 2nd July 2019
-- [x] [https://arxiv.org/pdf/1703.06870.pdf](Mask R-CNN)
-- [x] [https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93](An overview of deep-learning based object-detection algorithms.)
-- [x] [https://deepsense.ai/region-of-interest-pooling-explained/](Region of interest pooling explained)
+- [x] [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
+- [x] [An overview of deep-learning based object-detection algorithms.](https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93)
+- [x] [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
  The term "ablation study" is often used in the context of neural networks, especially relatiavely complex ones such as R-CNNs. 
  The idea is to learn about the network by removing parts of it and studying it's performance. In the context of linear regression that you propose, 
  ablation doesn't really make sense - it would turn into a kind of backwards stepwise variable selection procedure. – Robert Long
-- [x] [https://medium.com/@tanaykarmarkar/region-proposal-network-rpn-backbone-of-faster-r-cnn-4a744a38d7f9](Region Proposal Networks - backbone of faster R CNN)
-- [x] [https://medium.com/edureka/tensorflow-object-detection-tutorial-8d6942e73adc](Object Detection Tutorial in TensorFlow- Perform Real-Time Object Detection)
-- [x] [https://arxiv.org/pdf/1504.08083.pdf](Fast R-CNN)
+- [x] [Region Proposal Networks - backbone of faster R CNN](https://medium.com/@tanaykarmarkar/region-proposal-network-rpn-backbone-of-faster-r-cnn-4a744a38d7f9)
+- [x] [Object Detection Tutorial in TensorFlow- Perform Real-Time Object Detection](https://medium.com/edureka/tensorflow-object-detection-tutorial-8d6942e73adc)
+- [x] [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 
 ## Day 33 : 16th July 2019
-- [x] [https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2](The Ancient Secrets of Computer Vision - 02 - Human Vision)
-- [x] [https://www.youtube.com/watch?v=hpqrDUuk7HY&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=3](The Ancient Secrets of Computer Vision - 03 - Image Basics)
-- [x] [https://www.youtube.com/watch?v=5xdbJ7z4Nrc&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=4](The Ancient Secrets of Computer Vision - 04 - Resizing, Filtering, and Convolutions)
-- [x] [https://www.youtube.com/watch?v=z5WSV6CXsxs&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=5](The Ancient Secrets of Computer Vision - 05 - Edges and Features)
-- [x] [https://pytorch.org/tutorials/beginner/nn_tutorial.html](WHAT IS TORCH.NN REALLY?)
+- [x] [The Ancient Secrets of Computer Vision - 02 - Human Vision](https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2)
+- [x] [The Ancient Secrets of Computer Vision - 03 - Image Basics](https://www.youtube.com/watch?v=hpqrDUuk7HY&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=3)
+- [x] [The Ancient Secrets of Computer Vision - 04 - Resizing, Filtering, and Convolutions](https://www.youtube.com/watch?v=5xdbJ7z4Nrc&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=4)
+- [x] [The Ancient Secrets of Computer Vision - 05 - Edges and Features](https://www.youtube.com/watch?v=z5WSV6CXsxs&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=5)
+- [x] [WHAT IS TORCH.NN REALLY?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 
 ## Day 34 : 30th July 2019
-- [x] [https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/](How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1)
-- [ ] [http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/](Object Detection and Classification using R-CNNs)
-- [ ] [https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439](Guide to build Faster RCNN in PyTorch)
-- [ ] [https://github.com/pierluigiferrari/ssd_keras/](A Keras port of Single Shot MultiBox Detector)
+- [x] [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+- [ ] [Object Detection and Classification using R-CNNs](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)
+- [ ] [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)
+- [ ] [A Keras port of Single Shot MultiBox Detector](https://github.com/pierluigiferrari/ssd_keras/)
     This so far has been the cleanest code for object detection.
 
 
