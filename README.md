@@ -303,6 +303,24 @@ https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicati
 - [x] [https://medium.com/edureka/tensorflow-object-detection-tutorial-8d6942e73adc](Object Detection Tutorial in TensorFlow- Perform Real-Time Object Detection)
 - [x] [https://arxiv.org/pdf/1504.08083.pdf](Fast R-CNN)
 
+## Day 33 : 16th July 2019
+- [x] [https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2](The Ancient Secrets of Computer Vision - 02 - Human Vision)
+- [x] [https://www.youtube.com/watch?v=hpqrDUuk7HY&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=3](The Ancient Secrets of Computer Vision - 03 - Image Basics)
+- [x] [https://www.youtube.com/watch?v=5xdbJ7z4Nrc&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=4](The Ancient Secrets of Computer Vision - 04 - Resizing, Filtering, and Convolutions)
+- [x] [https://www.youtube.com/watch?v=z5WSV6CXsxs&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=5](The Ancient Secrets of Computer Vision - 05 - Edges and Features)
+- [x] [https://pytorch.org/tutorials/beginner/nn_tutorial.html](WHAT IS TORCH.NN REALLY?)
+
+## Day 34 : 30th July 2019
+- [x] [https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/](How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1)
+- [ ] [http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/](Object Detection and Classification using R-CNNs)
+- [ ] [https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439](Guide to build Faster RCNN in PyTorch)
+- [ ] [https://github.com/pierluigiferrari/ssd_keras/](A Keras port of Single Shot MultiBox Detector)
+    This so far has been the cleanest code for object detection.
+
+
+https://fullstackdeeplearning.com/march2019
+
+https://hackernoon.com/top-10-papers-you-shouldnt-miss-from-cvpr-2019-deepfake-facial-recognition-reconstruction-and-more-d5ly3q1w
 
 https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 https://www.youtube.com/watch?v=UTfQwTuri8Y
@@ -345,6 +363,7 @@ https://arxiv.org/list/cs.AI/recent
 https://arxiv.org/list/cs.LG/recent
 
 https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
+https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 
 # Concepts to understand
 - [ ] Probabilistic Programming
@@ -412,7 +431,7 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 - [ ] [Numerical Analysis and Approximation Theory meets Data Science](http://www.birs.ca/events/2018/5-day-workshops/18w5172/videos)
 
 # Courses to do
-
+- [ ] [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 - [ ] [Deep Mind -Deep Learning : Introduction to Machine Learning Based AI](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [ ] [INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
@@ -429,6 +448,9 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
   - [x] [13—IMAGE ENHANCEMENT](https://course.fast.ai/lessons/lesson13.html)
 
 - [ ][Advanced Deep Learning & Reinforcement ](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+- [ ][Computer vision](https://classroom.udacity.com/courses/ud810)
+- [ ][Weights & Biases](https://www.wandb.com/)
 
 
   ## Deep RL Bootcamp
@@ -525,8 +547,11 @@ https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html
 - [ ] [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
 - [ ] [https://www.ipam.ucla.edu/videos/](IPAM’s video archive)
 - [ ] [https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p](The Ancient Secrets of Computer Vision)
+- [ ] [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos](Computer Vision Foundation Videos)
 
 # Other Git Repositories
+
+[https://github.com/iamtrask/Grokking-Deep-Learning](Grokking-Deep-Learning)
 
 [https://github.com/ritchieng/the-incredible-pytorch](The Incredible Pytorch)
 
