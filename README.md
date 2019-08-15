@@ -281,11 +281,6 @@ Worked on PDG in houdini to explore how to build training sets.
 [https://www.sidefx.com/tutorials/pdg-for-design-work-pt-1-the-basics/?collection=59](PDG FOR DESIGN WORK PT. 1 - THE BASICS)
 Using this tutorial [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
 
-- [ ] [Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks](https://www.youtube.com/watch?v=9spwoDYwW_I)
-- [ ] [Kaggle - Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-- [ ] [Keras Mask R-CNN](https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/)
-- [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
-https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicationsofhessians.pdf
 
 ## Day 31 : June 23rd 2019
 -[x] [MIT 6.S191: Deep Learning Limitations and New Frontier](https://www.youtube.com/watch?v=INja7C5_vqk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=6)
@@ -312,14 +307,14 @@ https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicati
 
 ## Day 34 : 30th July 2019
 - [x] [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
-- [ ] [Object Detection and Classification using R-CNNs](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)
-- [ ] [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)
-- [ ] [A Keras port of Single Shot MultiBox Detector](https://github.com/pierluigiferrari/ssd_keras/)
+- [x] [A Keras port of Single Shot MultiBox Detector](https://github.com/pierluigiferrari/ssd_keras/)
     This so far has been the cleanest code for object detection.
+    Trained the ssd7, which is a super simple model, but this seems to work on the simple data set I've provided. It even works on the validation data that is real life apiary frame.
 
 
+https://github.com/ogroth/tf-gqn
 https://fullstackdeeplearning.com/march2019
-
+https://distill.pub/2016/augmented-rnns/
 https://hackernoon.com/top-10-papers-you-shouldnt-miss-from-cvpr-2019-deepfake-facial-recognition-reconstruction-and-more-d5ly3q1w
 
 https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
@@ -350,9 +345,14 @@ https://github.com/tensorflow/graphics
 
 # Need to read
 https://blog.nanonets.com/human-pose-estimation-2d-guide/
-https://stanford.edu/~shervine/blog/evolution-image-classification-explained
 
 https://indabax.co.za/#ts-schedule
+
+
+# Image classification
+https://stanford.edu/~shervine/blog/evolution-image-classification-explained
+https://github.com/tensorflow/models/tree/master/research/object_detection
+
 
 # *Links*
 
@@ -390,14 +390,22 @@ https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 - [ ] [Model Zoo](https://modelzoo.co/) Implement some models
 
 *Need to read*
+- [ ] [Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks](https://www.youtube.com/watch?v=9spwoDYwW_I)
+- [ ] [Kaggle - Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [ ] [Keras Mask R-CNN](https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/)
+- [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
+https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicationsofhessians.pdf
+- [ ] [Object Detection and Classification using R-CNNs](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)
+- [ ] [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)
+
 - [ ] [Adding a cutting-edge deep learning training technique to the fast.ai library](https://medium.com/@hortonhearsafoo/adding-a-cutting-edge-deep-learning-training-technique-to-the-fast-ai-library-2cd1dba90a49)
 - [ ] [TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
-- [ ] Disentangled VAE's (DeepMind 2016): https://arxiv.org/abs/1606.05579
-- [ ] Applying disentangled VAE's to RL: DARLA (DeepMind 2017): https://arxiv.org/abs/1707.08475
-- [ ] Original VAE paper (2013): https://arxiv.org/abs/1312.6114
-- [ ] Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind:https://arxiv.org/abs/1611.05397
-- [ ] Curiosity Driven Exploration - UC Berkeley: https://arxiv.org/abs/1705.05363
-- [ ] Hindsight Experience Replay - OpenAI: https://arxiv.org/abs/1707.01495
+- [ ] [Disentangled VAE's (DeepMind 2016)](https://arxiv.org/abs/1606.05579)
+- [ ] [Applying disentangled VAE's to RL: DARLA (DeepMind 2017](https://arxiv.org/abs/1707.08475)
+- [ ] [Original VAE paper (2013)] (https://arxiv.org/abs/1312.6114)
+- [ ] [Reinforcement Learning with Unsupervised Auxiliary Tasks - DeepMind](https://arxiv.org/abs/1611.05397)
+- [ ] [Curiosity Driven Exploration - UC Berkeley](https://arxiv.org/abs/1705.05363)
+- [ ] [Hindsight Experience Replay - OpenAI](https://arxiv.org/abs/1707.01495)
 - [ ] [NumPy Tutorial: Data analysis with Python](https://www.dataquest.io/blog/numpy-tutorial-python/)
 - [ ] [Deep Neural Networks for YouTube Recommendations](https://ai.google/research/pubs/pub45530)
 - [ ] [Deep Video Analytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
@@ -580,6 +588,8 @@ https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 [Reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 
 [fast-neural-style](https://github.com/pytorch/examples/tree/master/fast_neural_style)
+
+[Welcome to the TensorFlow.js gallery](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
 
 # Other 100 Days of AI
 
