@@ -307,10 +307,18 @@ Using this tutorial [Transfer Learning for Image Classification using Keras](htt
 
 ## Day 34 : 30th July 2019
 - [x] [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+
+## Day 35 : 16th August 2019
 - [x] [A Keras port of Single Shot MultiBox Detector](https://github.com/pierluigiferrari/ssd_keras/)
     This so far has been the cleanest code for object detection.
     Trained the ssd7, which is a super simple model, but this seems to work on the simple data set I've provided. It even works on the validation data that is real life apiary frame.
 
+## Day 36 : 20th August 2019
+- [x] [Keoki Jackson: Lockheed Martin | Artificial Intelligence (AI) Podcast](https://www.youtube.com/watch?v=anXep8kBOCg)
+- [x] [Lesson 6: Regularization; Convolutions; Data ethics](https://course.fast.ai/videos/?lesson=6)
+
+## Day 37 : 25 August 2019
+- [x] [Lesson 9: Loss functions, optimizers, and the training loop](https://course.fast.ai/videos/?lesson=9)
 
 https://github.com/ogroth/tf-gqn
 https://fullstackdeeplearning.com/march2019
