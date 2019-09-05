@@ -1,6 +1,6 @@
 # 100DaysOfMLCode
 Repository of the AI journey 100 Days of ML Code
-Total Time : 10.45 Hours
+Total Time : 100.45 Hours
 
 # 100 Days Of ML Code
 
@@ -320,6 +320,13 @@ Using this tutorial [Transfer Learning for Image Classification using Keras](htt
 ## Day 37 : 25 August 2019
 - [x] [Lesson 9: Loss functions, optimizers, and the training loop](https://course.fast.ai/videos/?lesson=9)
 
+https://github.com/tensorflow/gan
+https://github.com/junyanz/CatPapers
+
+https://github.com/junyanz/CycleGAN
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+https://github.com/phillipi/pix2pix
+
 https://github.com/ogroth/tf-gqn
 https://fullstackdeeplearning.com/march2019
 https://distill.pub/2016/augmented-rnns/
@@ -448,6 +455,7 @@ https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicati
 
 # Courses to do
 - [ ] [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+- [ ] [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [ ] [Deep Mind -Deep Learning : Introduction to Machine Learning Based AI](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [ ] [INTRODUCTION TO DEEP LEARNING](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 - [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
@@ -567,6 +575,8 @@ https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicati
 
 # Other Git Repositories
 
+[Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
 [https://github.com/iamtrask/Grokking-Deep-Learning](Grokking-Deep-Learning)
 
 [https://github.com/ritchieng/the-incredible-pytorch](The Incredible Pytorch)
@@ -598,6 +608,8 @@ https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicati
 [fast-neural-style](https://github.com/pytorch/examples/tree/master/fast_neural_style)
 
 [Welcome to the TensorFlow.js gallery](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
+
+[Welcome to lambda-deep-learning-demo’s documentation!](https://lambda-deep-learning-demo.readthedocs.io/en/latest/index.html)
 
 # Other 100 Days of AI
 
