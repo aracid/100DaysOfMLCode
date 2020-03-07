@@ -320,6 +320,35 @@ Using this tutorial [Transfer Learning for Image Classification using Keras](htt
 ## Day 37 : 25 August 2019
 - [x] [Lesson 9: Loss functions, optimizers, and the training loop](https://course.fast.ai/videos/?lesson=9)
 
+
+## Day 38 : 10th November 2019
+- [x] [Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts (TF World '19)](https://www.youtube.com/watch?v=5ECD8J3dvDQ)
+
+## Day 39 : 6th December 2019
+- [x] [Building Knowledge For AI Agents With Reinforcement Learning - Doina Precup](https://www.youtube.com/watch?v=hZeeWlLfDHk)
+
+
+## Day 40 : 13th January 2020
+- [x] [Neural structured learning in TensorFlow (TF World '19)](https://www.youtube.com/watch?v=2Ucq7a8CY94&t=0s)
+
+## Day 41 : 19th January 2020
+- [x] [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k)
+
+## Day 42 : 8th February 2020
+- [SIGGRAPH University : How Computer Graphics Expertise Will Further the SoA in Machine Learning](https://www.youtube.com/watch?v=CHnoy-8EEWo)
+
+
+
+Look at this
+https://www.tensorflow.org/graphics/overview
+https://ai.googleblog.com/2018/07/announcing-cirq-open-source-framework.html
+https://codelabs.developers.google.com/
+https://spacy.io/   
+https://prodi.gy/
+https://github.com/ageron/handson-ml2
+
+
+
 https://github.com/tensorflow/gan
 https://github.com/junyanz/CatPapers
 
@@ -358,6 +387,10 @@ https://www.youtube.com/watch?v=QcyRYdTmlXg&feature=share
 
 https://github.com/tensorflow/graphics
 
+# TensorFlow
+
+https://stackoverflow.com/questions/tagged/tensorflow
+
 # Need to read
 https://blog.nanonets.com/human-pose-estimation-2d-guide/
 
@@ -374,6 +407,7 @@ https://github.com/tensorflow/models/tree/master/research/object_detection
 Daily Reading Material
 
 https://arxiv.org/list/cs.AI/recent
+https://github.com/smartgeometry-ucl/dl4g
 
 https://arxiv.org/list/cs.LG/recent
 
@@ -567,11 +601,11 @@ https://web.stanford.edu/group/sisl/k12/optimization/MO-unit4-pdfs/4.10applicati
 - [ ] [https://www.itu.int/webcast/archive/t2019aiday2](AI for Good)
 # Youtube Channels
 
-- [ ] [ComputerVisionFoundation Videos](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
 - [ ] [Center for Brains, Minds and Machines (CBMM)](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
 - [ ] [https://www.ipam.ucla.edu/videos/](IPAM’s video archive)
 - [ ] [https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p](The Ancient Secrets of Computer Vision)
 - [ ] [https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos](Computer Vision Foundation Videos)
+- [ ] [https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw](Machine Learning with Phil)
 
 # Other Git Repositories
 
