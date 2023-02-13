@@ -4,7 +4,7 @@ Total Time : 100.45 Hours
 
 # 100 Days Of ML Code
 
-https://developers.google.com/machine-learning/glossary/
+
 
 ## Day 1 : October 9th 2018
 1 Hour
@@ -269,14 +269,14 @@ https://blog.openai.com/evolution-strategies/
   ## Day 28 : May 6th 2019
 - [x] [This Course: Convolutional Neural Networks - Week 2](https://www.coursera.org/learn/convolutional-neural-networks)
 
-  ## Day 29 : May 28th 2019 
+  ## Day 29 : May 28th 2019
 - [x] [Deep Learning 16: Image denoising (Fashion dataset) using Neural Network (Auto Encoders)](https://www.youtube.com/watch?v=LFqigdDW4Uk&t=4s)
 - [x] [Secure and Private AI](https://classroom.udacity.com/courses/ud185)
   Watched the second course by Andrew Trask on Introducing Differential Privacy.
 - [x] [Lesson 3: Deep Learning 2019 - Data blocks; Multi-label classification; Segmentation](https://www.youtube.com/watch?v=MpZxV6DVsmM)
 - [x] [Self-Attention GAN](https://www.youtube.com/watch?v=OVeGatovZ7Y&fbclid=IwAR2mfYzXkUENfyoIuCWaBrqx7M5HOvAVjhcOkMLyp8Y71OiPLitu2Gou6-Q&t=1s)
 
-## Day 30 : June 4th 2019 
+## Day 30 : June 4th 2019
 Worked on PDG in houdini to explore how to build training sets.
 [https://www.sidefx.com/tutorials/pdg-for-design-work-pt-1-the-basics/?collection=59](PDG FOR DESIGN WORK PT. 1 - THE BASICS)
 Using this tutorial [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
@@ -291,8 +291,8 @@ Using this tutorial [Transfer Learning for Image Classification using Keras](htt
 - [x] [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
 - [x] [An overview of deep-learning based object-detection algorithms.](https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93)
 - [x] [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)
- The term "ablation study" is often used in the context of neural networks, especially relatiavely complex ones such as R-CNNs. 
- The idea is to learn about the network by removing parts of it and studying it's performance. In the context of linear regression that you propose, 
+ The term "ablation study" is often used in the context of neural networks, especially relatiavely complex ones such as R-CNNs.
+ The idea is to learn about the network by removing parts of it and studying it's performance. In the context of linear regression that you propose,
  ablation doesn't really make sense - it would turn into a kind of backwards stepwise variable selection procedure. – Robert Long
 - [x] [Region Proposal Networks - backbone of faster R CNN](https://medium.com/@tanaykarmarkar/region-proposal-network-rpn-backbone-of-faster-r-cnn-4a744a38d7f9)
 - [x] [Object Detection Tutorial in TensorFlow- Perform Real-Time Object Detection](https://medium.com/edureka/tensorflow-object-detection-tutorial-8d6942e73adc)
@@ -337,9 +337,21 @@ Using this tutorial [Transfer Learning for Image Classification using Keras](htt
 ## Day 42 : 8th February 2020
 - [SIGGRAPH University : How Computer Graphics Expertise Will Further the SoA in Machine Learning](https://www.youtube.com/watch?v=CHnoy-8EEWo)
 
+## 43 : 14th Jan 2023
+- https://www.youtube.com/watch?v=344w5h24-h8
+- https://huggingface.co/course/chapter1/1
+- https://www.youtube.com/watch?v=a4Yfz2FxXiY
+- https://github.com/heejkoo/Awesome-Diffusion-Models
+
+## 44 : 10th Feb 2023
+- https://www.youtube.com/watch?v=-lnHHWRCDGk - Stanford Webinar - GPT-3 & Beyond
 
 
 Look at this
+https://ommer-lab.com/research/image-and-video-synthesis/
+https://www.youtube.com/watch?v=MABLFo7IV3I&list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH
+https://github.com/andri27-ts/Reinforcement-Learning
+
 https://www.tensorflow.org/graphics/overview
 https://ai.googleblog.com/2018/07/announcing-cirq-open-source-framework.html
 https://codelabs.developers.google.com/
@@ -405,7 +417,7 @@ https://github.com/tensorflow/models/tree/master/research/object_detection
 # *Links*
 
 Daily Reading Material
-
+https://huggingface.co/
 https://arxiv.org/list/cs.AI/recent
 https://github.com/smartgeometry-ucl/dl4g
 
@@ -420,6 +432,7 @@ https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 - [ ] Embedding Matrix
 - [ ] Trust Region Policy Optimization - John Schulman Berkeley
 - [ ] Q-Learning
+- [ ] Transformer MODELS
 - [ ] Autoencoders
 - [ ] Temporal Difference
 - [ ] Reinforcement learning
@@ -430,6 +443,7 @@ https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 - [ ] Transfer learning
 - [ ] Autoregressive (AR) models
 - [x] Policy Gradient methods and Proximal Policy Optimization (PPO)
+- [ ] Diffusion models
 
 
 - [ ] Image Denoiser
@@ -437,6 +451,11 @@ https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 - [ ] Text to image classification, ie. find an image based on text, the text isn't a category but a convnet.
 - [ ] Form a sentence and form various images based on the sentence.
 - [ ] [Model Zoo](https://modelzoo.co/) Implement some models
+- [ ]
+
+*Diffusion Models*
+
+https://github.com/heejkoo/Awesome-Diffusion-Models
 
 *Need to read*
 - [ ] [Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks](https://www.youtube.com/watch?v=9spwoDYwW_I)
