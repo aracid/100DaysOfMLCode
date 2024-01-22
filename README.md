@@ -1,6 +1,5 @@
 # 100DaysOfMLCode
 Repository of the AI journey 100 Days of ML Code
-Total Time : 100.45 Hours
 
 # 100 Days Of ML Code
 
@@ -346,8 +345,48 @@ Using this tutorial [Transfer Learning for Image Classification using Keras](htt
 ## 44 : 10th Feb 2023
 - https://www.youtube.com/watch?v=-lnHHWRCDGk - Stanford Webinar - GPT-3 & Beyond
 
+## 45 : 11th March
+- https://www.youtube.com/watch?v=hPb6A92LROc
+
+## 46 : 13th March 2023
+- https://huggingface.co/docs/diffusers - Stable Diffusion
+
+## 47 : 15th March 2023
+- https://www.youtube.com/watch?v=W-O7AZNzbzQ
+
+## 48 : 16th March 2023
+### PyTorch Crash Course - Getting Started with Deep Learning
+- https://www.youtube.com/watch?v=OIenNRt2bjg
+
+## 49 : 31st August 2023
+- https://www.youtube.com/watch?v=5p248yoa3oE - Andrew Ng: Opportunities in AI - 2023
+- https://www.youtube.com/watch?v=OxCpWwDCDFQ - Language Models
+- https://www.youtube.com/watch?v=T05t-SqKArY&list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv&index=2 - Latent Dirichlet Allocation (Part 1 of 2)
+
+## 50 : 12th September 2023
+- https://www.youtube.com/watch?v=hDuy1TgD8I4&list=PLwq2F0NejwX5pLkDH0wxW9om0oacO-Le2&index=89 - Dynamic 3D Gaussians
+- https://www.youtube.com/watch?v=1Bt5wyGqdk4 - Deepface Lab Tutorial - Advanced Training Methods
+
+## 51 : 13th September 2023
+
+## 52 : 14th September 2023
+- https://www.youtube.com/watch?v=Ts0PV-taz4I - Computational Creativity Lecture 5: Variational autoencoders
+
+## 53 : 22nd January 2024
+- https://www.youtube.com/watch?v=f1cCaJLGOYc - AlphaGeometry, FunSearch, AlphaCodium
+- https://www.youtube.com/watch?v=_7rMfsA24Ls&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP - Lesson 9: Deep Learning Foundations to Stable Diffusion, 2022
+
+
+
+
+Attention is all you need
+ - https://www.youtube.com/watch?v=OxCpWwDCDFQ
+
 
 Look at this
+
+https://www.youtube.com/watch?v=BthUPVwA59s&list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx
+https://lena-voita.github.io/nlp_course.html
 https://ommer-lab.com/research/image-and-video-synthesis/
 https://www.youtube.com/watch?v=MABLFo7IV3I&list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH
 https://github.com/andri27-ts/Reinforcement-Learning
@@ -432,6 +471,7 @@ https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 - [ ] Embedding Matrix
 - [ ] Trust Region Policy Optimization - John Schulman Berkeley
 - [ ] Q-Learning
+- [ ] Transformers
 - [ ] Transformer MODELS
 - [ ] Autoencoders
 - [ ] Temporal Difference
@@ -446,12 +486,13 @@ https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 - [ ] Diffusion models
 
 
+
 - [ ] Image Denoiser
 - [ ] Voice recognition - speech to text.
 - [ ] Text to image classification, ie. find an image based on text, the text isn't a category but a convnet.
 - [ ] Form a sentence and form various images based on the sentence.
 - [ ] [Model Zoo](https://modelzoo.co/) Implement some models
-- [ ]
+
 
 *Diffusion Models*
 
